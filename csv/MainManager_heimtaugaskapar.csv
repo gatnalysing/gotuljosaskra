@@ -1,0 +1,606 @@
+ID,Lóð,Auðkenni heimtaugarskáps,Heimtaugarskápur XID,Staðsetning,Tegund viðfangs,Undirtegund,X (lengdargráða),Y (Breidd),GPS-hæð,X,Y,Eigandi Umsjón-starfsmaður,Kennitala eiganda,Þjónustuaðili,Dreifiveita,Söluaðili orku,Gjaldskrá orkusala,Hefur mæli,Dagsetning uppsetningar mælis,Mælanúmer,Veitunúmer,Staða,Ástandseinkunn
+1606537,"Árbær, gatnakerfi",0023_01,23,,Heimtaugarskápur,,-21835353,64119513,,361896.035,404940.141,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,27.07.2023,6.086.839.277,,Virkur,Ekki skráð
+1606557,"Árbær, gatnakerfi",0051_01,51,,Heimtaugarskápur,,-2180374,64122389,,363449.0288,405191.8239,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,27.07.2023,6.086.839.276,,Virkur,Ekki skráð
+1606562,"Árbær, gatnakerfi",0061_01,61,Fossháls 3,Heimtaugarskápur,,-21798813,64122455,,363689.1365,405188.5426,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606577,"Árbær, gatnakerfi",0095_01,95,Elliðavatn,Heimtaugarskápur,,-21760594,64088319,,365383.2,401304.701,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606587,"Árbær, gatnakerfi",0115_01,115,"Traðir, Víðidal",Heimtaugarskápur,,-217901,6410004,,364002.9842,402673.3775,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606624,"Árbær, gatnakerfi",0202_01,202,,Heimtaugarskápur,,-21791497,64110948,,363988.6118,403891.1474,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,21.06.2022,,10732029,Virkur,Ekki skráð
+1606670,"Árbær, gatnakerfi",0377_01,377,,Heimtaugarskápur,,-2179431,64102968,,363812.303,403008.515,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,22.04.2024,6.089.319.199,,Virkur,Ekki skráð
+1606695,"Árbær, gatnakerfi",0435_01,435,Rofabær 5-7,Heimtaugarskápur,,-21805895,64118027,,363322.5737,404710.6159,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606696,"Árbær, gatnakerfi",0436_01,436,Rofabær 17,Heimtaugarskápur,,-2180206,64117244,,363505.3728,404615.2254,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606697,"Árbær, gatnakerfi",0437_01,437,,Heimtaugarskápur,,-21797048,6411653,,363745.823,404524.824,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,09.08.2022,,10732280,Virkur,Ekki skráð
+1606698,"Árbær, gatnakerfi",0438_01,438,Rofabær 39,Heimtaugarskápur,,-21789632,64115479,,364101.7039,404391.8304,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606699,"Árbær, gatnakerfi",0439_01,439,,Heimtaugarskápur,,-21810721,64116632,,363080.7,404565.7,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,09.09.2022,,10732490,Virkur,Ekki skráð
+1606723,"Árbær, gatnakerfi",0489_01,489,Tunguháls 2,Heimtaugarskápur,,-21787172,6411793,,364233.5041,404659.5564,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606759,"Árbær, gatnakerfi",0588_01,588,járnháls 4,Heimtaugarskápur,,-21794048,6412271,,363922.3,405206.7,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606764,"Árbær, gatnakerfi",0608_01,608,,Heimtaugarskápur,,-21785815,64109807,,364259.638,403751.949,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,17.01.2023,,,Virkur,Ekki skráð
+1606767,"Árbær, gatnakerfi",0617_01,617,Selásbraut 103,Heimtaugarskápur,,-2178619,6410554,,364220.4422,403277.4732,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606769,"Árbær, gatnakerfi",0622_01,622,Rafstöðvarvegur-Elliðaárbrú,Heimtaugarskápur,,-21839711,64123424,,361703.473,405385.252,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606772,"Árbær, gatnakerfi",0629_01,629,,Heimtaugarskápur,,-21814288,64121914,,362933.2891,405161.7034,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,16.04.2024,6.089.318.899,,Virkur,Ekki skráð
+1606781,"Árbær, gatnakerfi",0648_01,648,Réttarháls 1,Heimtaugarskápur,,-21799413,6412016,,363648.6376,404934.2815,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606833,"Árbær, gatnakerfi",0891_01,891,,Heimtaugarskápur,,-21777096,64098215,,364627.487,402442.138,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,30.06.2022,,10732117,Virkur,Ekki skráð
+1606835,"Árbær, gatnakerfi",0897_01,897,,Heimtaugarskápur,,-21783393,64117252,,364414.1551,404575.9533,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,14.06.2022,,10732012,Virkur,Ekki skráð
+1606837,"Árbær, gatnakerfi",1101_01,1101,,Heimtaugarskápur,,-21768511,64102312,,365065.68,402880.124,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,29.06.2022,,10732116,Virkur,Ekki skráð
+1607885,"Árbær, gatnakerfi",1102,1102,Ónóg skráning,Heimtaugarskápur,,-21775883,64102352,,364706.795,402900.279,,,,,,,False,,,,Virkur,Ekki skráð
+1606838,"Árbær, gatnakerfi",1110_01,1110,,Heimtaugarskápur,,-21762588,64101475,,365350.1184,402774.2638,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,15.09.2022,6.085.259.779,10732545,Virkur,Ekki skráð
+1607893,"Árbær, gatnakerfi",1135,1135,Ónóg skráning,Heimtaugarskápur,,-21778577,64095654,,364542.776,402160.102,,,,,,,False,,,,Virkur,Ekki skráð
+1607899,"Árbær, gatnakerfi",1177,1177,Ónóg skráning,Heimtaugarskápur,,-21785991,6411933,,364297.865,404812.946,,,,,,,False,,,,Virkur,Ekki skráð
+1607906,"Árbær, gatnakerfi",1200,1200,Ónóg skráning,Heimtaugarskápur,,-21740673,64083128,,366328.92,400684.302,,,,,,,False,,,,Virkur,Ekki skráð
+1607907,"Árbær, gatnakerfi",1201,1201,Ónóg skráning,Heimtaugarskápur,,-217725,64076665,,364746.0476,400032.2054,,,,,,,False,,,,Virkur,Ekki skráð
+1607908,"Árbær, gatnakerfi",1203,1203,Ónóg skráning,Heimtaugarskápur,,-21735293,64084613,,366598.328,400838.287,,,,,,,False,,,,Virkur,Ekki skráð
+1607941,"Árbær, gatnakerfi",1285,1285,Ónóg skráning,Heimtaugarskápur,,-21782811,64115346,,364433.1212,404362.4114,,,,,,,False,,,,Virkur,Ekki skráð
+1607970,"Árbær, gatnakerfi",1338,1338,Ónóg skráning,Heimtaugarskápur,,-21788267,6412297,,364204.9516,405223.1961,,,,,,,False,,,,Virkur,Ekki skráð
+1607984,"Árbær, gatnakerfi",1362,1362,Ónóg skráning,Heimtaugarskápur,,-21789298,64116673,,364123.8169,404524.0674,,,,,,,False,,,,Virkur,Ekki skráð
+1607987,"Árbær, gatnakerfi",1365,1365,Ónóg skráning,Heimtaugarskápur,,-21794584,641205,,363885.3353,404961.6625,,,,,,,False,,,,Virkur,Ekki skráð
+1607988,"Árbær, gatnakerfi",1366,1366,Ónóg skráning,Heimtaugarskápur,,-21787598,64050315,,363880.4542,397129.7936,,,,,,,False,,,,Virkur,Ekki skráð
+1607989,"Árbær, gatnakerfi",1367,1367,Ónóg skráning,Heimtaugarskápur,,-21794732,64122809,,363889.5161,405219.1353,,,,,,,False,,,,Virkur,Ekki skráð
+1607999,"Árbær, gatnakerfi",1390,1390,Ónóg skráning,Heimtaugarskápur,,-21789295,64121199,,364146.2086,405028.1854,,,,,,,False,,,,Virkur,Ekki skráð
+1608017,"Árbær, gatnakerfi",1440,1440,Ónóg skráning,Heimtaugarskápur,,-21806821,641207,,363290.7054,405010.3368,,,,,,,False,,,,Virkur,Ekki skráð
+1608028,"Árbær, gatnakerfi",1480,1480,Ónóg skráning,Heimtaugarskápur,,-21787261,64123035,,364254.2554,405228.2366,,,,,,,False,,,,Virkur,Ekki skráð
+1608031,"Árbær, gatnakerfi",1494,1494,Ónóg skráning,Heimtaugarskápur,,-21799558,64122983,,363655.494,405248.9893,,,,,,,False,,,,Virkur,Ekki skráð
+1607790,"Árbær, gatnakerfi",290,290,Ónóg skráning,Heimtaugarskápur,,-2174066,64082997,,366328.932,400669.677,,,,,,,False,,,,Virkur,Ekki skráð
+1607824,"Árbær, gatnakerfi",585,585,Ónóg skráning,Heimtaugarskápur,,-21795226,64107739,,363791.226,403541.835,,,,,,,False,,,,Virkur,Ekki skráð
+1607827,"Árbær, gatnakerfi",607,607,Ónóg skráning,Heimtaugarskápur,,-21825339,6412144,,362393.025,405133.016,,,,,,,False,,,,Virkur,Ekki skráð
+1607831,"Árbær, gatnakerfi",618,618,Ónóg skráning,Heimtaugarskápur,,-21787735,64120785,,364220.136,404978.7278,,,,,,,False,,,,Virkur,Ekki skráð
+1607834,"Árbær, gatnakerfi",635,635,Ónóg skráning,Heimtaugarskápur,,-21802592,64122791,,363506.883,405234.0683,,,,,,,False,,,,Virkur,Ekki skráð
+1607836,"Árbær, gatnakerfi",639,639,Ónóg skráning,Heimtaugarskápur,,-21808655,64121815,,363206.9347,405138.5329,,,,,,,False,,,,Virkur,Ekki skráð
+1607839,"Árbær, gatnakerfi",664,664,Ónóg skráning,Heimtaugarskápur,,-21793959,64118364,,363905.2291,404722.4592,,,,,,,False,,,,Virkur,Ekki skráð
+1607864,"Árbær, gatnakerfi",840,840,Ónóg skráning,Heimtaugarskápur,,-21800712,64120361,,363586.3977,404959.3668,,,,,,,False,,,,Virkur,Ekki skráð
+1607878,"Árbær, gatnakerfi",890,890,Ónóg skráning,Heimtaugarskápur,,-21779945,64099245,,364493.756,402563.026,,,,,,,False,,,,Virkur,Ekki skráð
+1607879,"Árbær, gatnakerfi",892,892,Ónóg skráning,Heimtaugarskápur,,-2177044,64100179,,364961.293,402646.612,,,,,,,False,,,,Virkur,Ekki skráð
+1606534,"Breiðholt, gatnakerfi",0021_01,21,,Heimtaugarskápur,,-21816117,64101127,,362741.0593,402850.6177,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,09.09.2022,6.085.259.739,10732491,Virkur,Ekki skráð
+1606598,"Breiðholt, gatnakerfi",0135_01,135,Völvufell 13,Heimtaugarskápur,,-21823649,64100663,,362371.8638,402815.3537,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606610,"Breiðholt, gatnakerfi",0162_01,162,Skógarsel 12,Heimtaugarskápur,,-21848258,64102991,,361184.903,403128.362,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606625,"Breiðholt, gatnakerfi",0207_01,207,,Heimtaugarskápur,,-21820223,64107401,,362572.259,403558.233,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,26.07.2023,6.086.839.279,,Virkur,Ekki skráð
+1606627,"Breiðholt, gatnakerfi",0214_01,214,,Heimtaugarskápur,,-21822272,64105052,,362460.781,403301.109,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,15.07.2022,6.084.693.027,10732216,Virkur,Ekki skráð
+1606628,"Breiðholt, gatnakerfi",0216_01,216,Stardalur,Heimtaugarskápur,,-21483175,64212377,,379446.958,414563.276,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606705,"Breiðholt, gatnakerfi",0445_01,445,,Heimtaugarskápur,,-21808218,64105678,,363148.351,403340.401,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,16.04.2024,6.089.319.009,,Virkur,Ekki skráð
+1606711,"Breiðholt, gatnakerfi",0456_01,456,Fremristekkur 12,Heimtaugarskápur,,-21833814,64111828,,361932.539,404080.978,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606713,"Breiðholt, gatnakerfi",0468_01,468,Eyjabakki 32,Heimtaugarskápur,,-2182985,64108425,,362108.5474,403693.2857,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606719,"Breiðholt, gatnakerfi",0479_01,479,,Heimtaugarskápur,,-21827801,64115244,,362242.346,404448.215,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,15.07.2022,6.084.693.016,,Virkur,Ekki skráð
+1606720,"Breiðholt, gatnakerfi",0480_01,480,Félagsheimili RR,Heimtaugarskápur,,-21825714,64117225,,362353.8,404664.4,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606722,"Breiðholt, gatnakerfi",0487_01,487,,Heimtaugarskápur,,-21832264,64105735,,361977.563,403399.006,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,09.08.2022,6.084.692.914,10732281,Virkur,Ekki skráð
+1606725,"Breiðholt, gatnakerfi",0491_01,491,,Heimtaugarskápur,,-21827833,64101614,,362172.811,402930.293,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,20.01.2023,6.085.792.894,,Virkur,Ekki skráð
+1606727,"Breiðholt, gatnakerfi",0494_01,494,Stekkjarbakki H.R,Heimtaugarskápur,,-21833165,6411269,,361968.435,404175.549,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606733,"Breiðholt, gatnakerfi",0500_01,500,,Heimtaugarskápur,,-21853584,64100076,,360910.84,402815.515,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,18.01.2023,6.085.792.941,,Virkur,Ekki skráð
+1606734,"Breiðholt, gatnakerfi",0501_01,501,Lóuhólar 6,Heimtaugarskápur,,-21817157,64109541,,362732.176,403789.988,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606737,"Breiðholt, gatnakerfi",0505_01,505,,Heimtaugarskápur,,-21842953,64102112,,361438.879,403018.808,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,16.05.2024,6.089.319.104,,Virkur,Ekki skráð
+1606738,"Breiðholt, gatnakerfi",0508_01,508,Dalsel 9,Heimtaugarskápur,,-21835731,6410071,,361783.603,402846.958,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606739,"Breiðholt, gatnakerfi",0509_01,509,Stórihjalli 2A,Heimtaugarskápur,,-21856551,64110158,,360817.1,403944.8,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606741,"Breiðholt, gatnakerfi",0515_01,515,Kleifarsel 26,Heimtaugarskápur,,-21837877,64094562,,361648.353,402166.872,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606743,"Breiðholt, gatnakerfi",0522_01,522,,Heimtaugarskápur,,-21813979,6410529,,362865.8346,403309.6221,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,22.04.2024,6.089.319.279,,Virkur,Ekki skráð
+1606744,"Breiðholt, gatnakerfi",0524_01,524,Dalvegur 4a,Heimtaugarskápur,,-21875361,64104908,,359874.6,403401.7,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606747,"Breiðholt, gatnakerfi",0537_01,537,Flúðasel 28,Heimtaugarskápur,,-21831569,64097836,,361971.988,402517.705,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606753,"Breiðholt, gatnakerfi",0566_01,566,Orrahólar 7,Heimtaugarskápur,,-218098,64108689,,363086.203,403679.108,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1607823,"Breiðholt, gatnakerfi",0578_01,578,,Heimtaugarskápur,,-21845202,6409768,,361307.12,402530.19,,,,,,,True,30.04.2024,6.089.319.272,,Virkur,Ekki skráð
+1606763,"Breiðholt, gatnakerfi",0605_01,605,,Heimtaugarskápur,,-21820975,64115143,,362574.156,404422.158,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,16.05.2024,6.089.319.106,,Virkur,Ekki skráð
+1606780,"Breiðholt, gatnakerfi",0647_01,647,Árskógar 10,Heimtaugarskápur,,-2184711,64105792,,361254.876,403437.77,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606810,"Breiðholt, gatnakerfi",0778_01,778,Salavegur,Heimtaugarskápur,,-21856397,64094324,,360744.85,402181.032,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606821,"Breiðholt, gatnakerfi",0806_01,806,Lómasalir 1a,Heimtaugarskápur,,-218444,6409103,,361312.8238,401787.8401,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1607891,"Breiðholt, gatnakerfi",1123,1123,Ónóg skráning,Heimtaugarskápur,,-21824966,6410222,,362315.487,402991.632,,,,,,,False,,,,Virkur,Ekki skráð
+1607802,"Breiðholt, gatnakerfi",355,355,Ónóg skráning,Heimtaugarskápur,,-21842902,64108227,,361472.017,403699.766,,,,,,,False,,,,Virkur,Ekki skráð
+1607820,"Breiðholt, gatnakerfi",485,485,Ónóg skráning,Heimtaugarskápur,,-21839224,64108155,,361650.7595,403683.6996,,,,,,,False,,,,Virkur,Ekki skráð
+1607830,"Breiðholt, gatnakerfi",616,616,Ónóg skráning,Heimtaugarskápur,,-21826582,64096702,,362209.298,402380.514,,,,,,,False,,,,Virkur,Ekki skráð
+1607856,"Breiðholt, gatnakerfi",791,791,Ónóg skráning,Heimtaugarskápur,,-21829222,64113668,,362165.29,404275.811,,,,,,,False,,,,Virkur,Ekki skráð
+1606584,"Grafarholt-Úlfarsárdalur, gatnakerfi",0111_01,111,Grafarholt H.R,Heimtaugarskápur,,-21767178,64129323,,365262.3874,405885.6964,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606596,"Grafarholt-Úlfarsárdalur, gatnakerfi",0131_01,131,Svöluhöfði 8A,Heimtaugarskápur,,-21720629,64169722,,367721.282,410286.866,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606736,"Grafarholt-Úlfarsárdalur, gatnakerfi",0504_01,504,,Heimtaugarskápur,,-2177099,64119567,,365029.236,404807.2459,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,14.06.2022,6.084.693.125,10732011,Virkur,Ekki skráð
+1606789,"Grafarholt-Úlfarsárdalur, gatnakerfi",0671_01,671,Bæjarás 6a,Heimtaugarskápur,,-21675991,64171138,,369896.988,410351.971,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606805,"Grafarholt-Úlfarsárdalur, gatnakerfi",0736_01,736,Tryggvagata 17,Heimtaugarskápur,,-21940741,64149442,,356921.6,408507.6,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606807,"Grafarholt-Úlfarsárdalur, gatnakerfi",0749_01,749,Skarhólabraut,Heimtaugarskápur,,-21723757,64158646,,367516.0889,409059.7544,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606812,"Grafarholt-Úlfarsárdalur, gatnakerfi",0787_01,787,Lambhagavegur 17A,Heimtaugarskápur,,-217586,64136129,,365712.8956,406625.3671,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606813,"Grafarholt-Úlfarsárdalur, gatnakerfi",0788_01,788,,Heimtaugarskápur,,-21752494,6413322,,365995.8362,406288.4779,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,14.06.2022,6.084.693.138,10732013,Virkur,Ekki skráð
+1606818,"Grafarholt-Úlfarsárdalur, gatnakerfi",0800_01,800,,Heimtaugarskápur,,-21763942,6412668,,365406.9652,405584.3694,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,15.05.2024,6.089.319.108,,Virkur,Ekki skráð
+1606819,"Grafarholt-Úlfarsárdalur, gatnakerfi",0801_01,801,,Heimtaugarskápur,,-21765108,6412402,,365337.2514,405290.6208,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,17.01.2023,,,Virkur,Ekki skráð
+1606820,"Grafarholt-Úlfarsárdalur, gatnakerfi",0803_01,803,,Heimtaugarskápur,,-21754512,64126599,,365865.5028,405555.3656,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,15.05.2024,,,Virkur,Ekki skráð
+1606823,"Grafarholt-Úlfarsárdalur, gatnakerfi",0810_01,810,Naustanes,Heimtaugarskápur,,-21706837,6420102,,368540.8,413744.1,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606824,"Grafarholt-Úlfarsárdalur, gatnakerfi",0813_01,813,Varmidalur III,Heimtaugarskápur,,-21680451,64193007,,369783.6,412796.9,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606825,"Grafarholt-Úlfarsárdalur, gatnakerfi",0841_01,841,,Heimtaugarskápur,,-2175042,64124527,,366054.566,405315.82,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,28.02.2023,,,Virkur,Ekki skráð
+1606826,"Grafarholt-Úlfarsárdalur, gatnakerfi",0842_01,842,,Heimtaugarskápur,,-21749295,6412888,,366130.433,405798.312,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,15.05.2024,6.089.319.110,,Virkur,Ekki skráð
+1606827,"Grafarholt-Úlfarsárdalur, gatnakerfi",0844_01,844,Þórðarsveigur 12A,Heimtaugarskápur,,-21744427,64126845,,366357.4609,405561.4043,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606829,"Grafarholt-Úlfarsárdalur, gatnakerfi",0861_01,861,,Heimtaugarskápur,,-21739487,64126066,,366594.115,405464.16,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,19.09.2022,,10732562,Virkur,Ekki skráð
+1607871,"Grafarholt-Úlfarsárdalur, gatnakerfi",0862_01,862,,Heimtaugarskápur,,-21763367,64129996,,365451.1,405952.4636,,,,,,,True,,,,Virkur,Ekki skráð
+1607895,"Grafarholt-Úlfarsárdalur, gatnakerfi",1148,1148,Ónóg skráning,Heimtaugarskápur,,-21750892,64100656,,365915.8638,402658.167,,,,,,,False,,,,Virkur,Ekki skráð
+1606840,"Grafarholt-Úlfarsárdalur, gatnakerfi",1156_01,1156,,Heimtaugarskápur,,-21779878,64123146,,364614.143,405224.85,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,24.01.2023,,,Virkur,Ekki skráð
+1607898,"Grafarholt-Úlfarsárdalur, gatnakerfi",1163_01,1163,,Heimtaugarskápur,,-21743448,64133232,,366436.009,406270.632,,,,,,,True,15.05.2024,6.089.319.101,,Virkur,Ekki skráð
+1607900,"Grafarholt-Úlfarsárdalur, gatnakerfi",1178_01,1178,,Heimtaugarskápur,,-21740264,64136054,,366604.5321,406578.1945,,,,,,,True,22.04.2024,6.089.319.200,,Virkur,Ekki skráð
+1607904,"Grafarholt-Úlfarsárdalur, gatnakerfi",1195_01,1195,,Heimtaugarskápur,,-2173739,64132737,,366728.3603,406202.7001,,,,,,,True,15.05.2024,6.089.319.102,,Virkur,Ekki skráð
+1606841,"Grafarholt-Úlfarsárdalur, gatnakerfi",1196_01,1196,,Heimtaugarskápur,,-2173316,64135459,,366947.2844,406497.0388,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,18.10.2022,,10732740,Virkur,Ekki skráð
+1606842,"Grafarholt-Úlfarsárdalur, gatnakerfi",1197_01,1197,,Heimtaugarskápur,,-21725076,64127794,,367303.759,405626.31,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,15.09.2022,,10732544,Virkur,Ekki skráð
+1606843,"Grafarholt-Úlfarsárdalur, gatnakerfi",1198_01,1198,,Heimtaugarskápur,,-21727247,64129564,,367206.6,405828,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,18.10.2022,,10732739,Virkur,Ekki skráð
+1607916,"Grafarholt-Úlfarsárdalur, gatnakerfi",1233,1233,Ónóg skráning,Heimtaugarskápur,,-21736958,64098555,,366584.466,402394.664,,,,,,,False,,,,Virkur,Ekki skráð
+1607919,"Grafarholt-Úlfarsárdalur, gatnakerfi",1238,1238,Ónóg skráning,Heimtaugarskápur,,-21777033,64115241,,364713.9007,404338.2436,,,,,,,False,,,,Virkur,Ekki skráð
+1607921,"Grafarholt-Úlfarsárdalur, gatnakerfi",1246,1246,Ónóg skráning,Heimtaugarskápur,,-21726627,6411197,,367152.2256,403867.0757,,,,,,,False,,,,Virkur,Ekki skráð
+1607922,"Grafarholt-Úlfarsárdalur, gatnakerfi",1247,1247,Ónóg skráning,Heimtaugarskápur,,-2175228,64140026,,366039.255,407046.022,,,,,,,False,,,,Virkur,Ekki skráð
+1607931,"Grafarholt-Úlfarsárdalur, gatnakerfi",1269,1269,Ónóg skráning,Heimtaugarskápur,,-2171072,64146784,,368093.1135,407711.3032,,,,,,,False,,,,Virkur,Ekki skráð
+1607933,"Grafarholt-Úlfarsárdalur, gatnakerfi",1271,1271,Ónóg skráning,Heimtaugarskápur,,-21698545,64099735,,368461.3919,402445.6808,,,,,,,False,,,,Virkur,Ekki skráð
+1607940,"Grafarholt-Úlfarsárdalur, gatnakerfi",1284,1284,Ónóg skráning,Heimtaugarskápur,,-2170762,64110231,,368069.4259,403633.5866,,,,,,,False,,,,Virkur,Ekki skráð
+1607951,"Grafarholt-Úlfarsárdalur, gatnakerfi",1305,1305,Ónóg skráning,Heimtaugarskápur,,-21681696,64141724,,369480.7259,407087.5473,,,,,,,False,,,,Virkur,Ekki skráð
+1607952,"Grafarholt-Úlfarsárdalur, gatnakerfi",1307,1307,Ónóg skráning,Heimtaugarskápur,,-21696819,64137276,,368723.9506,406623.4265,,,,,,,False,,,,Virkur,Ekki skráð
+1607953,"Grafarholt-Úlfarsárdalur, gatnakerfi",1308,1308,Ónóg skráning,Heimtaugarskápur,,-2170717,64136738,,368217.8502,406584.9735,,,,,,,False,,,,Virkur,Ekki skráð
+1607954,"Grafarholt-Úlfarsárdalur, gatnakerfi",1309,1309,Ónóg skráning,Heimtaugarskápur,,-21719861,64134422,,367589.3312,406353.6236,,,,,,,False,,,,Virkur,Ekki skráð
+1607969,"Grafarholt-Úlfarsárdalur, gatnakerfi",1336,1336,Ónóg skráning,Heimtaugarskápur,,-21755745,64134553,,365844.1279,406443.8536,,,,,,,False,,,,Virkur,Ekki skráð
+1607971,"Grafarholt-Úlfarsárdalur, gatnakerfi",1340,1340,Ónóg skráning,Heimtaugarskápur,,-21755855,64138526,,365858.0976,406886.5308,,,,,,,False,,,,Virkur,Ekki skráð
+1607972,"Grafarholt-Úlfarsárdalur, gatnakerfi",1341,1341,Ónóg skráning,Heimtaugarskápur,,-21755596,64136661,,365861.59,406678.2949,,,,,,,False,,,,Virkur,Ekki skráð
+1607974,"Grafarholt-Úlfarsárdalur, gatnakerfi",1347,1347,Ónóg skráning,Heimtaugarskápur,,-21750287,64142714,,366149.2516,407341.243,,,,,,,False,,,,Virkur,Ekki skráð
+1607977,"Grafarholt-Úlfarsárdalur, gatnakerfi",1352,1352,Ónóg skráning,Heimtaugarskápur,,-21732142,64136775,,367003.1764,406641.4484,,,,,,,False,,,,Virkur,Ekki skráð
+1607978,"Grafarholt-Úlfarsárdalur, gatnakerfi",1353,1353,Ónóg skráning,Heimtaugarskápur,,-2173511,64136703,,366858.4054,406639.6096,,,,,,,False,,,,Virkur,Ekki skráð
+1607980,"Grafarholt-Úlfarsárdalur, gatnakerfi",1357,1357,Ónóg skráning,Heimtaugarskápur,,-21776296,6412493,,364797.2088,405415.7965,,,,,,,False,,,,Virkur,Ekki skráð
+1607992,"Grafarholt-Úlfarsárdalur, gatnakerfi",1371,1371,Ónóg skráning,Heimtaugarskápur,,-21718874,64136852,,367649.0104,406622.209,,,,,,,False,,,,Virkur,Ekki skráð
+1607801,"Grafarholt-Úlfarsárdalur, gatnakerfi",347,347,Ónóg skráning,Heimtaugarskápur,,-21735186,64109668,,366724.359,403628.714,,,,,,,False,,,,Virkur,Ekki skráð
+1607760,"Grafarholt-Úlfarsárdalur, gatnakerfi",71,71,Ónóg skráning,Heimtaugarskápur,,-21700039,64120547,,368487.6836,404766.7731,,,,,,,False,,,,Virkur,Ekki skráð
+1607857,"Grafarholt-Úlfarsárdalur, gatnakerfi",802,802,Ónóg skráning,Heimtaugarskápur,,-21761371,64129136,,365544.0381,405852.4419,,,,,,,False,,,,Virkur,Ekki skráð
+1607867,"Grafarholt-Úlfarsárdalur, gatnakerfi",851,851,Ónóg skráning,Heimtaugarskápur,,-21769502,64128266,,365144.125,405772.828,,,,,,,False,,,,Virkur,Ekki skráð
+1607883,"Grafarholt-Úlfarsárdalur, gatnakerfi",929,929,Ónóg skráning,Heimtaugarskápur,,-21775111,6411392,,364801.003,404187.091,,,,,,,False,,,,Virkur,Ekki skráð
+1606548,"Grafarvogur, gatnakerfi",0032_01,32,Höfðabakki i9,Heimtaugarskápur,,-2180822,64125642,,363247.0856,405563.8533,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606559,"Grafarvogur, gatnakerfi",0055_01,55,Tangarhöfði 6,Heimtaugarskápur,,-21815904,64126077,,362875.3073,405628.8394,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606576,"Grafarvogur, gatnakerfi",0093_01,93,Sævarhöfði 6-12,Heimtaugarskápur,,-218312,64127238,,362136.7404,405791.4386,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606602,"Grafarvogur, gatnakerfi",0139_01,139,Höfðabakki 7,Heimtaugarskápur,,-21809993,64127318,,363169.1,405754.3,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606606,"Grafarvogur, gatnakerfi",0154_01,154,,Heimtaugarskápur,,-21822812,64127799,,362547.692,405835.727,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,15.09.2022,6.085.259.782,10732554,Virkur,Ekki skráð
+1606607,"Grafarvogur, gatnakerfi",0155_01,155,Álfaborgir 2,Heimtaugarskápur,,-21790277,64151234,,364246.146,408375.362,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606608,"Grafarvogur, gatnakerfi",0157_01,157,,Heimtaugarskápur,,-21790286,64144921,,364214.7,407672.3,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,13.10.2022,6.085.259.572,10732716,Virkur,Ekki skráð
+1606609,"Grafarvogur, gatnakerfi",0160_01,160,,Heimtaugarskápur,,-21792629,64141634,,364084.533,407311.264,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,26.07.2023,6.086.839.273,,Virkur,Ekki skráð
+1606629,"Grafarvogur, gatnakerfi",0224_01,224,,Heimtaugarskápur,,-21796963,64152731,,363928.481,408556.45,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,18.10.2022,,10732736,Virkur,Ekki skráð
+1606648,"Grafarvogur, gatnakerfi",0303_01,303,Bíldshöfi 9A,Heimtaugarskápur,,-2182275,64125549,,362539.519,405584.9958,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606660,"Grafarvogur, gatnakerfi",0344_01,344,,Heimtaugarskápur,,-21775854,64147768,,364930.447,407958.478,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,13.10.2022,,10732717,Virkur,Ekki skráð
+1606675,"Grafarvogur, gatnakerfi",0387_01,387,Mosavegur,Heimtaugarskápur,,-21782048,64150439,,364642.352,408269.162,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606694,"Grafarvogur, gatnakerfi",0433_01,433,Fróðengi 1,Heimtaugarskápur,,-21784411,64147753,,364514.308,407975.106,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606717,"Grafarvogur, gatnakerfi",0477_01,477,,Heimtaugarskápur,,-21827538,64132376,,362340.538,406355.655,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,15.09.2022,6.085.259.777,10732553,Virkur,Ekki skráð
+1606726,"Grafarvogur, gatnakerfi",0492_01,492,Breiðhöfði 10,Heimtaugarskápur,,-21824991,64129353,,362449.372,406013.469,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606748,"Grafarvogur, gatnakerfi",0539_01,539,,Heimtaugarskápur,,-21814111,64128027,,362972.224,405842.13,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,24.09.2022,,10732589,Virkur,Ekki skráð
+1606751,"Grafarvogur, gatnakerfi",0548_01,548,,Heimtaugarskápur,,-2179882,64148414,,363816.883,408079.727,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,14.10.2022,,10732718,Virkur,Ekki skráð
+1606752,"Grafarvogur, gatnakerfi",0549_01,549,Rimaflöt 9,Heimtaugarskápur,,-21801716,64144946,,363658.955,407699.698,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606755,"Grafarvogur, gatnakerfi",0570_01,570,,Heimtaugarskápur,,-21802595,6414287,,363605.954,407470.329,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,18.10.2022,6.085.259.588,10732737,Virkur,Ekki skráð
+1606768,"Grafarvogur, gatnakerfi",0621_01,621,,Heimtaugarskápur,,-21789335,64133558,,364205.04,406404.733,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,19.09.2022,6.085.259.768,10732563,Virkur,Ekki skráð
+1606771,"Grafarvogur, gatnakerfi",0628_01,628,Hverafold 30A,Heimtaugarskápur,,-21803661,64135385,,363517.118,406639.079,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606773,"Grafarvogur, gatnakerfi",0630_01,630,Breiðhöfði 17,Heimtaugarskápur,,-21826085,64131003,,362404.386,406199.588,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606774,"Grafarvogur, gatnakerfi",0634_01,634,Keldnaholt,Heimtaugarskápur,,-21764056,64139044,,365461.643,406961.667,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606776,"Grafarvogur, gatnakerfi",0640_01,640,Viðarhöfði 4,Heimtaugarskápur,,-21797469,64125619,,363770.164,405538.02,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606778,"Grafarvogur, gatnakerfi",0644_01,644,,Heimtaugarskápur,,-21794315,64136682,,363978.157,406763.364,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,22.02.2023,,,Virkur,Ekki skráð
+1606782,"Grafarvogur, gatnakerfi",0650_01,650,,Heimtaugarskápur,,-21802593,64138294,,363583.4089,406960.6864,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,11.01.2023,,,Virkur,Ekki skráð
+1606784,"Grafarvogur, gatnakerfi",0653_01,653,Logafold 4,Heimtaugarskápur,,-21797492,64134118,,363810.981,406484.689,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606785,"Grafarvogur, gatnakerfi",0658_01,658,,Heimtaugarskápur,,-21780657,6415297,,364722.429,408548.1518,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,20.10.2022,6.085.259.538,10732750,Virkur,Ekki skráð
+1606786,"Grafarvogur, gatnakerfi",0659_01,659,Hlaðhamrar 2A,Heimtaugarskápur,,-21816961,64139649,,362891.2674,407142.7082,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606788,"Grafarvogur, gatnakerfi",0670_01,670,Dyrhamrar 30,Heimtaugarskápur,,-21810962,64137791,,363173.8462,406922.8204,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606791,"Grafarvogur, gatnakerfi",0684_01,684,Miðhús 2A,Heimtaugarskápur,,-21772286,6413611,,365046.987,406652.435,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606794,"Grafarvogur, gatnakerfi",0695_01,695,Dalhús 25,Heimtaugarskápur,,-21785192,64138571,,364431.245,406954.15,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606795,"Grafarvogur, gatnakerfi",0696_01,696,Hlíðarhús 9,Heimtaugarskápur,,-21777628,64138839,,364800.476,406967.791,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606796,"Grafarvogur, gatnakerfi",0702_01,702,Blikastaðavegur 10,Heimtaugarskápur,,-21751966,64147476,,366090.6844,407875.1764,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606798,"Grafarvogur, gatnakerfi",0709_01,709,Stórhöfði 23,Heimtaugarskápur,,-21806086,64128029,,363362.724,405825.052,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606803,"Grafarvogur, gatnakerfi",0728_01,728,Starengi 22,Heimtaugarskápur,,-21774767,64150765,,364997.9892,408289.8894,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606804,"Grafarvogur, gatnakerfi",0733_01,733,,Heimtaugarskápur,,-21770715,64144855,,365166.124,407623.113,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,17.05.2024,6.089.319.105,,Virkur,Ekki skráð
+1606806,"Grafarvogur, gatnakerfi",0737_01,737,,Heimtaugarskápur,,-21751228,64156646,,366171.044,408894.899,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,14.10.2022,,10732719,Virkur,Ekki skráð
+1606808,"Grafarvogur, gatnakerfi",0771_01,771,,Heimtaugarskápur,,-21815677,64132056,,362916.01,406294.303,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,19.09.2022,,10732564,Virkur,Ekki skráð
+1606809,"Grafarvogur, gatnakerfi",0772_01,772,Tangabryggja 11,Heimtaugarskápur,,-21822091,64133126,,362609.2607,406427.4271,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606828,"Grafarvogur, gatnakerfi",0845_01,845,Stórhöfði 9,Heimtaugarskápur,,-21820619,64129148,,362661.084,405981.107,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606836,"Grafarvogur, gatnakerfi",0899_01,899,,Heimtaugarskápur,,-21793778,64148117,,364060.578,408035.729,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,24.09.2022,,10732592,Virkur,Ekki skráð
+1607768,"Grafarvogur, gatnakerfi",114,114,Ónóg skráning,Heimtaugarskápur,,-21834316,64124658,,361972.205,405510.908,,,,,,,False,,,,Virkur,Ekki skráð
+1607903,"Grafarvogur, gatnakerfi",1190,1190,Ónóg skráning,Heimtaugarskápur,,-21780522,64140642,,364668.565,407174.842,,,,,,,False,,,,Virkur,Ekki skráð
+1607910,"Grafarvogur, gatnakerfi",1220,1220,Ónóg skráning,Heimtaugarskápur,,-2182972,64125762,,362201.3603,405623.8111,,,,,,,False,,,,Virkur,Ekki skráð
+1606844,"Grafarvogur, gatnakerfi",1221_01,1221,,Heimtaugarskápur,,-2175983,64144807,,365695.2757,407594.5896,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,14.09.2022,,10732524,Virkur,Ekki skráð
+1607911,"Grafarvogur, gatnakerfi",1222,1222,Ónóg skráning,Heimtaugarskápur,,-21758066,64145516,,365784.505,407669.785,,,,,,,False,,,,Virkur,Ekki skráð
+1607912,"Grafarvogur, gatnakerfi",1223,1223,Ónóg skráning,Heimtaugarskápur,,-21755869,64146402,,365895.651,407763.826,,,,,,,False,,,,Virkur,Ekki skráð
+1607930,"Grafarvogur, gatnakerfi",1266,1266,Ónóg skráning,Heimtaugarskápur,,-21815707,64154871,,363027.8141,408835.3293,,,,,,,False,,,,Virkur,Ekki skráð
+1607935,"Grafarvogur, gatnakerfi",1274,1274,Ónóg skráning,Heimtaugarskápur,,-21812202,64152226,,363185.1011,408533.1117,,,,,,,False,,,,Virkur,Ekki skráð
+1607769,"Grafarvogur, gatnakerfi",128,128,Ónóg skráning,Heimtaugarskápur,,-21821898,64126863,,362587.4827,405729.4333,,,,,,,False,,,,Virkur,Ekki skráð
+1607945,"Grafarvogur, gatnakerfi",1291,1291,Ónóg skráning,Heimtaugarskápur,,-21809616,64147309,,363286.4769,407979.9418,,,,,,,False,,,,Virkur,Ekki skráð
+1607973,"Grafarvogur, gatnakerfi",1345,1345,Ónóg skráning,Heimtaugarskápur,,-21803055,64142083,,363579.6557,407383.7433,,,,,,,False,,,,Virkur,Ekki skráð
+1608010,"Grafarvogur, gatnakerfi",1415,1415,Ónóg skráning,Heimtaugarskápur,,-2181217,64152766,,363189.316,408593.2458,,,,,,,False,,,,Virkur,Ekki skráð
+1606846,"Grafarvogur, gatnakerfi",1416_01,1416,,Heimtaugarskápur,,-21807704,64153624,,363410.6791,408679.1348,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,14.09.2022,6.085.259.760,10732523,Virkur,Ekki skráð
+1608011,"Grafarvogur, gatnakerfi",1420,1420,Ónóg skráning,Heimtaugarskápur,,-2182209,6413317,,362609.5517,406432.3279,,,,,,,False,,,,Virkur,Ekki skráð
+1608023,"Grafarvogur, gatnakerfi",1456,1456,Ónóg skráning,Heimtaugarskápur,,-21824389,6413212,,362492.44,406320.3758,,,,,,,False,,,,Virkur,Ekki skráð
+1608033,"Grafarvogur, gatnakerfi",1502,1502,Ónóg skráning,Heimtaugarskápur,,-21830253,64124664,,362169.9546,405502.6861,,,,,,,False,,,,Virkur,Ekki skráð
+1607777,"Grafarvogur, gatnakerfi",190,190,Ónóg skráning,Heimtaugarskápur,,-21819752,64151546,,362814.623,408473.761,,,,,,,False,,,,Virkur,Ekki skráð
+1607806,"Grafarvogur, gatnakerfi",394,394,Ónóg skráning,Heimtaugarskápur,,-21832997,64128342,,362054.8046,405918.3523,,,,,,,False,,,,Virkur,Ekki skráð
+1607756,"Grafarvogur, gatnakerfi",54,54,Ónóg skráning,Heimtaugarskápur,,-21831306,64130442,,362147.5633,406148.5509,,,,,,,False,,,,Virkur,Ekki skráð
+1607841,"Grafarvogur, gatnakerfi",674,674,Ónóg skráning,Heimtaugarskápur,,-21763473,64153817,,365561.996,408605.756,,,,,,,False,,,,Virkur,Ekki skráð
+1607849,"Grafarvogur, gatnakerfi",704,704,Ónóg skráning,Heimtaugarskápur,,-21793995,64125536,,363938.828,405521.281,,,,,,,False,,,,Virkur,Ekki skráð
+1607854,"Grafarvogur, gatnakerfi",781,781,Ónóg skráning,Heimtaugarskápur,,-21773018,64142314,,365041.695,407345.023,,,,,,,False,,,,Virkur,Ekki skráð
+1607855,"Grafarvogur, gatnakerfi",790,790,Ónóg skráning,Heimtaugarskápur,,-21781116,64131242,,364593.541,406129.107,,,,,,,False,,,,Virkur,Ekki skráð
+1607858,"Grafarvogur, gatnakerfi",809,809,Ónóg skráning,Heimtaugarskápur,,-21769169,64142472,,365229.6826,407354.3621,,,,,,,False,,,,Virkur,Ekki skráð
+1607868,"Grafarvogur, gatnakerfi",853,853,Ónóg skráning,Heimtaugarskápur,,-21768459,64146651,,365284.616,407818.321,,,,,,,False,,,,Virkur,Ekki skráð
+1607874,"Grafarvogur, gatnakerfi",872,872,Ónóg skráning,Heimtaugarskápur,,-2182291,64151505,,362660.898,408476.027,,,,,,,False,,,,Virkur,Ekki skráð
+1607875,"Grafarvogur, gatnakerfi",879,879,Ónóg skráning,Heimtaugarskápur,,-21814266,64153385,,363090.493,408666.715,,,,,,,False,,,,Virkur,Ekki skráð
+1606527,"Háaleit-Bústaðir, gatnakerfi",0011_01,11,,Heimtaugarskápur,,-21884336,64128356,,359556.756,406032.902,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,08.08.2022,6.084.693.017,10732275,Virkur,Ekki skráð
+1606565,"Háaleit-Bústaðir, gatnakerfi",0069_01,69,Hvassaleiti 24,Heimtaugarskápur,,-21889215,641307,,359331.286,406304.775,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606570,"Háaleit-Bústaðir, gatnakerfi",0082_01,82,Ármúli 5,Heimtaugarskápur,,-21885266,64138985,,359565.5931,407218.7184,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606599,"Háaleit-Bústaðir, gatnakerfi",0136_01,136,,Heimtaugarskápur,,-21894613,64126691,,359048.198,405870.424,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,01.08.2023,6.086.836.197,,Virkur,Ekki skráð
+1606601,"Háaleit-Bústaðir, gatnakerfi",0138_01,138,,Heimtaugarskápur,,-21894948,64123066,,359013.396,405467.466,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,02.04.2024,6.089.317.913,,Virkur,Ekki skráð
+1606613,"Háaleit-Bústaðir, gatnakerfi",0169_01,169,Smiðjuvegur 2,Heimtaugarskápur,,-2184636,64111902,,361322.04,404116.634,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606619,"Háaleit-Bústaðir, gatnakerfi",0184_01,184,,Heimtaugarskápur,,-21876704,64123286,,359902.389,405451.425,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,20.10.2022,6.085.259.586,10732744,Virkur,Ekki skráð
+1606620,"Háaleit-Bústaðir, gatnakerfi",0185_01,185,Víðines,Heimtaugarskápur,,-21747308,6417731,,366461.7,411188.1,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606631,"Háaleit-Bústaðir, gatnakerfi",0241_01,241,Hlíðargerði 13,Heimtaugarskápur,,-21867509,64126647,,360366.886,405805.323,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606637,"Háaleit-Bústaðir, gatnakerfi",0263_01,263,,Heimtaugarskápur,,-21878768,64128216,,359826.958,406004.934,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,06.02.2023,,,Virkur,Ekki skráð
+1606642,"Háaleit-Bústaðir, gatnakerfi",0276_01,276,Skálagerði 6,Heimtaugarskápur,,-21879581,64126521,,359778.817,405818.044,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606643,"Háaleit-Bústaðir, gatnakerfi",0277_01,277,,Heimtaugarskápur,,-21874348,64126284,,360032.262,405780.08,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,28.06.2022,6.084.693.071,10732096,Virkur,Ekki skráð
+1606644,"Háaleit-Bústaðir, gatnakerfi",0280_01,280,Blesugróf 38,Heimtaugarskápur,,-21846503,64117787,,361344.622,404772.352,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,10731338,Virkur,Ekki skráð
+1606645,"Háaleit-Bústaðir, gatnakerfi",0284_01,284,,Heimtaugarskápur,,-2186148,64123979,,360646.8068,405494.8976,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,09.08.2022,6.084.693.029,10732273,Virkur,Ekki skráð
+1606651,"Háaleit-Bústaðir, gatnakerfi",0309_01,309,,Heimtaugarskápur,,-21852815,64122925,,361063.19,405358.475,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,28.06.2022,6.084.693.076,10732094,Virkur,Ekki skráð
+1606652,"Háaleit-Bústaðir, gatnakerfi",0310_01,310,,Heimtaugarskápur,,-21875214,6413541,,360036.389,406798.282,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,13.05.2024,6.089.319.137,,Virkur,Ekki skráð
+1606658,"Háaleit-Bústaðir, gatnakerfi",0331_01,331,Ármúli 31,Heimtaugarskápur,,-21874138,64134056,,360081.8553,406645.1427,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606663,"Háaleit-Bústaðir, gatnakerfi",0350_01,350,,Heimtaugarskápur,,-21889506,64129086,,359308.927,406125.707,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,28.06.2022,6.084.694.081,10732097,Virkur,Ekki skráð
+1606664,"Háaleit-Bústaðir, gatnakerfi",0359_01,359,,Heimtaugarskápur,,-21892747,6413715,,359192.352,407031.019,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,10.01.2023,,,Virkur,Ekki skráð
+1606665,"Háaleit-Bústaðir, gatnakerfi",0360_01,360,,Heimtaugarskápur,,-2189449,64135075,,359096.985,406803.797,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,10.01.2023,,,Virkur,Ekki skráð
+1606666,"Háaleit-Bústaðir, gatnakerfi",0362_01,362,,Heimtaugarskápur,,-21887787,64136338,,359429.457,406929.507,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,08.08.2022,6.084.693.018,10732278,Virkur,Ekki skráð
+1606667,"Háaleit-Bústaðir, gatnakerfi",0363_01,363,,Heimtaugarskápur,,-21886749,641346,,359471.138,406733.723,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,20.10.2022,6.085.259.585,10732743,Virkur,Ekki skráð
+1606668,"Háaleit-Bústaðir, gatnakerfi",0364_01,364,Háaleitisbraut 44,Heimtaugarskápur,,-21884239,64133877,,359589.562,406647.614,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1607803,"Háaleit-Bústaðir, gatnakerfi",0365_01,365,,Heimtaugarskápur,,-21887772,64132522,,359410.791,406504.564,,,,,,,True,08.08.2022,6.084.693.031,,Virkur,Ekki skráð
+1606674,"Háaleit-Bústaðir, gatnakerfi",0385_01,385,Suðurlandsbraut 2,Heimtaugarskápur,,-21889854,64139751,,359346.305,407314.247,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606677,"Háaleit-Bústaðir, gatnakerfi",0398_01,398,Felsmýli 9,Heimtaugarskápur,,-21879578,64132518,,359809.384,406485.867,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606683,"Háaleit-Bústaðir, gatnakerfi",0407_01,407,Hólmgarður 39,Heimtaugarskápur,,-21871563,64123167,,360152.0184,405426.7053,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606686,"Háaleit-Bústaðir, gatnakerfi",0415_01,415,Grensásvegur 16,Heimtaugarskápur,,-21875682,64131652,,359994.545,406380.759,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606687,"Háaleit-Bústaðir, gatnakerfi",0420_01,420,Ekki í LUKOR,Heimtaugarskápur,,-28015952,60198426,,,,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606691,"Háaleit-Bústaðir, gatnakerfi",0427_01,427,Akurgerði 17,Heimtaugarskápur,,-21873897,64127812,,360061.962,405949.165,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606692,"Háaleit-Bústaðir, gatnakerfi",0428_01,428,,Heimtaugarskápur,,-21804364,64115709,,363385.6,404449.2,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,15.09.2022,,10732555,Virkur,Ekki skráð
+1606702,"Háaleit-Bústaðir, gatnakerfi",0442_01,442,Heiðargerði 1a,Heimtaugarskápur,,-21882427,64129994,,359657.987,406211.145,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606714,"Háaleit-Bústaðir, gatnakerfi",0471_01,471,,Heimtaugarskápur,,-21876084,6412169,,359924.486,405272.213,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,29.09.2022,6.085.259.674,10732688,Virkur,Ekki skráð
+1606715,"Háaleit-Bústaðir, gatnakerfi",0473_01,473,Brúnaland 1,Heimtaugarskápur,,-21882732,64120577,,359595.282,405163.06,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606730,"Háaleit-Bústaðir, gatnakerfi",0497_01,497,,Heimtaugarskápur,,-2186639,6412053,,360390.4338,405121.5746,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,12.01.2023,6.085.792.920,10732217,Virkur,Ekki skráð
+1606731,"Háaleit-Bústaðir, gatnakerfi",0498_01,498,,Heimtaugarskápur,,-21868337,64119163,,360288.767,404973.723,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,12.01.2023,6.085.792.919,,Virkur,Ekki skráð
+1606735,"Háaleit-Bústaðir, gatnakerfi",0502_01,502,Furugerði 5,Heimtaugarskápur,,-21882132,64124541,,359644.632,405603.162,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606742,"Háaleit-Bústaðir, gatnakerfi",0518_01,518,,Heimtaugarskápur,,-21880256,64138284,,359805.686,407129.493,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,08.09.2022,6.085.259.809,10732485,Virkur,Ekki skráð
+1606746,"Háaleit-Bústaðir, gatnakerfi",0535_01,535,,Heimtaugarskápur,,-21857396,64118773,,360819.358,404906.093,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,04.10.2022,6.085.259.800,10732741,Virkur,Ekki skráð
+1606758,"Háaleit-Bústaðir, gatnakerfi",0583_01,583,Kringlan 7,Heimtaugarskápur,,-21896536,64131497,,358979.1797,406409.9474,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606775,"Háaleit-Bústaðir, gatnakerfi",0636_01,636,Hvassaleiti 54,Heimtaugarskápur,,-21892544,64128597,,359158.598,406078.01,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606797,"Háaleit-Bústaðir, gatnakerfi",0707_01,707,Borgarsjúkrahús,Heimtaugarskápur,,-21890256,64121896,,359235.7993,405326.6413,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1607909,"Háaleit-Bústaðir, gatnakerfi",1216,1216,Ónóg skráning,Heimtaugarskápur,,-21887673,6413761,,359441.518,407070.915,,,,,,,False,,,,Virkur,Ekki skráð
+1607923,"Háaleit-Bústaðir, gatnakerfi",1248,1248,Ónóg skráning,Heimtaugarskápur,,-21897825,64121379,,358864.7642,405286.0292,,,,,,,False,,,,Virkur,Ekki skráð
+1607925,"Háaleit-Bústaðir, gatnakerfi",1254,1254,Ónóg skráning,Heimtaugarskápur,,-21849695,64117517,,361187.8904,404749.2749,,,,,,,False,,,,Virkur,Ekki skráð
+1607950,"Háaleit-Bústaðir, gatnakerfi",1303,1303,Ónóg skráning,Heimtaugarskápur,,-21891083,64126718,,359220.1014,405865.4838,,,,,,,False,,,,Virkur,Ekki skráð
+1607956,"Háaleit-Bústaðir, gatnakerfi",1311,1311,Ónóg skráning,Heimtaugarskápur,,-21883261,64139511,,359665.7919,407272.8766,,,,,,,False,,,,Virkur,Ekki skráð
+1607996,"Háaleit-Bústaðir, gatnakerfi",1380,1380,Ónóg skráning,Heimtaugarskápur,,-21891919,6413249,,359208.8773,406510.2112,,,,,,,False,,,,Virkur,Ekki skráð
+1608035,"Háaleit-Bústaðir, gatnakerfi",1517,1517,Ónóg skráning,Heimtaugarskápur,,-21849698,64121851,,361209.4974,405232.0137,,,,,,,False,,,,Virkur,Ekki skráð
+1608037,"Háaleit-Bústaðir, gatnakerfi",2041,2041,Ónóg skráning,Heimtaugarskápur,,-21893222,64130804,,359136.877,406325.329,,,,,,,False,,,,Virkur,Ekki skráð
+1608038,"Háaleit-Bústaðir, gatnakerfi",2042,2042,Ónóg skráning,Heimtaugarskápur,,-2189498,64129489,,359044.624,406182.835,,,,,,,False,,,,Virkur,Ekki skráð
+1607792,"Háaleit-Bústaðir, gatnakerfi",312,312,Ónóg skráning,Heimtaugarskápur,,-21874935,64132695,,360036.21,406495.28,,,,,,,False,,,,Virkur,Ekki skráð
+1607794,"Háaleit-Bústaðir, gatnakerfi",319,319,Ónóg skráning,Heimtaugarskápur,,-21865568,64122129,,360438.501,405297.88,,,,,,,False,,,,Virkur,Ekki skráð
+1607797,"Háaleit-Bústaðir, gatnakerfi",333,333,Ónóg skráning,Heimtaugarskápur,,-21892848,6413895,,359196.622,407231.71,,,,,,,False,,,,Virkur,Ekki skráð
+1607807,"Háaleit-Bústaðir, gatnakerfi",396,396,Ónóg skráning,Heimtaugarskápur,,-2188222,64135739,,359697.219,406850.5,,,,,,,False,,,,Virkur,Ekki skráð
+1607808,"Háaleit-Bústaðir, gatnakerfi",397,397,Ónóg skráning,Heimtaugarskápur,,-21880385,64133623,,359775.738,406610.683,,,,,,,False,,,,Virkur,Ekki skráð
+1607809,"Háaleit-Bústaðir, gatnakerfi",399,399,Ónóg skráning,Heimtaugarskápur,,-21880514,64131347,,359757.928,406357.563,,,,,,,False,,,,Virkur,Ekki skráð
+1607813,"Háaleit-Bústaðir, gatnakerfi",417,417,Ónóg skráning,Heimtaugarskápur,,-21877382,64134918,,359928.398,406748.353,,,,,,,False,,,,Virkur,Ekki skráð
+1607817,"Háaleit-Bústaðir, gatnakerfi",434,434,Ónóg skráning,Heimtaugarskápur,,-21889527,64138216,,359354.4019,407142.5859,,,,,,,False,,,,Virkur,Ekki skráð
+1607819,"Háaleit-Bústaðir, gatnakerfi",472,472,Ónóg skráning,Heimtaugarskápur,,-2187979,64119662,,359733.8298,405054.6201,,,,,,,False,,,,Virkur,Ekki skráð
+1607826,"Háaleit-Bústaðir, gatnakerfi",604,604,Ónóg skráning,Heimtaugarskápur,,-21896807,64129338,,358954.98,406170.096,,,,,,,False,,,,Virkur,Ekki skráð
+1607828,"Háaleit-Bústaðir, gatnakerfi",609,609,Ónóg skráning,Heimtaugarskápur,,-21892449,64125225,,359146.026,405702.249,,,,,,,False,,,,Virkur,Ekki skráð
+1607835,"Háaleit-Bústaðir, gatnakerfi",638,638,Ónóg skráning,Heimtaugarskápur,,-21896793,64127691,,358947.235,405986.571,,,,,,,False,,,,Virkur,Ekki skráð
+1607847,"Háaleit-Bústaðir, gatnakerfi",699,699,Ónóg skráning,Heimtaugarskápur,,-21898137,6413048,,358896.086,406300.214,,,,,,,False,,,,Virkur,Ekki skráð
+1607870,"Háaleit-Bústaðir, gatnakerfi",855,855,Ónóg skráning,Heimtaugarskápur,,-2187854,64137287,,359884.105,407014.688,,,,,,,False,,,,Virkur,Ekki skráð
+1606568,"Hlíðar, gatnakerfi",0073_01,73,Stakkholt 3,Heimtaugarskápur,,-21910889,64142741,,358338.579,407694.158,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606574,"Hlíðar, gatnakerfi",0090_01,90,,Heimtaugarskápur,,-21910815,64139395,,358324.9814,407321.3339,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,07.09.2022,,10732454,Virkur,Ekki skráð
+1606575,"Hlíðar, gatnakerfi",0091_01,91,,Heimtaugarskápur,,-21915127,64132233,,358078.484,406533.414,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,05.04.2024,6.089.318.944,,Virkur,Ekki skráð
+1606578,"Hlíðar, gatnakerfi",0100_01,100,Öskjuhlíð,Heimtaugarskápur,,-21919947,64131199,,357838.6419,406429.1908,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606586,"Hlíðar, gatnakerfi",0113_01,113,,Heimtaugarskápur,,-21916152,64140201,,358069.566,407423.157,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,12.12.2022,,10733157,Virkur,Ekki skráð
+1606589,"Hlíðar, gatnakerfi",0119_01,119,Engihlið 6,Heimtaugarskápur,,-21918469,64135403,,357932.179,406893.991,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606591,"Hlíðar, gatnakerfi",0123_01,123,,Heimtaugarskápur,,-21911942,64134009,,358242.5489,406724.0978,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,05.04.2024,6.089.318.939,,Virkur,Ekki skráð
+1606593,"Hlíðar, gatnakerfi",0127_01,127,Bálstofa,Heimtaugarskápur,,-21909353,6412539,,358324.2891,405758.4751,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606604,"Hlíðar, gatnakerfi",0146_01,146,Miklabraut 84,Heimtaugarskápur,,-21907724,64134144,,358448.423,406729.727,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1607780,"Hlíðar, gatnakerfi",0246_01,246,,Heimtaugarskápur,,-21902607,64139645,,358725.48,407330.833,,,,,,,True,14.03.2024,,,Virkur,Ekki skráð
+1606636,"Hlíðar, gatnakerfi",0261_01,261,Miklatún,Heimtaugarskápur,,-21911412,64138023,,358288.949,407169.878,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606639,"Hlíðar, gatnakerfi",0268_01,268,Brautarholt 14,Heimtaugarskápur,,-21906597,64141645,,358541.6831,407562.5038,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606640,"Hlíðar, gatnakerfi",0270_01,270,Hörgshlíð 24,Heimtaugarskápur,,-21909384,64130113,,358347.018,406284.466,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606641,"Hlíðar, gatnakerfi",0274_01,274,Bólstaðarhlíð 26,Heimtaugarskápur,,-21903561,64135198,,358656.347,406837.696,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606646,"Hlíðar, gatnakerfi",0298_01,298,Bogahlíð 24,Heimtaugarskápur,,-21907033,64131777,,358469.931,406464.566,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606653,"Hlíðar, gatnakerfi",0315_01,315,Birkihlíð 6,Heimtaugarskápur,,-2190155,64124766,,358700.785,405671.465,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606688,"Hlíðar, gatnakerfi",0422_01,422,,Heimtaugarskápur,,-21878311,64148394,,359951.6,408251.1,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,10.01.2023,6.085.792.957,,Virkur,Ekki skráð
+1606701,"Hlíðar, gatnakerfi",0441_01,441,Skipholt 70,Heimtaugarskápur,,-21897943,64137385,,358940.783,407068.735,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606704,"Hlíðar, gatnakerfi",0444_01,444,Bolholt H.R,Heimtaugarskápur,,-21894743,64139156,,359105.505,407258.839,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606706,"Hlíðar, gatnakerfi",0446_01,446,Stigahlíð 50,Heimtaugarskápur,,-21902256,64130607,,358696.328,406323.506,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606707,"Hlíðar, gatnakerfi",0447_01,447,Bolholt 4,Heimtaugarskápur,,-21896753,64139971,,359011.89,407354.127,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606732,"Hlíðar, gatnakerfi",0499_01,499,Skógarhlíð 10,Heimtaugarskápur,,-21920261,6413427,,357839.184,406771.881,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606792,"Hlíðar, gatnakerfi",0688_01,688,Bústaðarvegur 7,Heimtaugarskápur,,-21906416,64127472,,358477.879,405983.69,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606817,"Hlíðar, gatnakerfi",0799_01,799,Öskjuhlíð II,Heimtaugarskápur,,-21915516,64129111,,358043.486,406186.667,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606830,"Hlíðar, gatnakerfi",0869_01,869,Stakkahlíð 1,Heimtaugarskápur,,-2190354,64137395,,358668.618,407082.415,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1607967,"Hlíðar, gatnakerfi",1334,1334,Ónóg skráning,Heimtaugarskápur,,-2189996,64117321,,358740.1309,404838.7994,,,,,,,False,,,,Virkur,Ekki skráð
+1607985,"Hlíðar, gatnakerfi",1363,1363,Ónóg skráning,Heimtaugarskápur,,-21924432,64133484,,357632.2313,406693.7315,,,,,,,False,,,,Virkur,Ekki skráð
+1608030,"Hlíðar, gatnakerfi",1482,1482,Ónóg skráning,Heimtaugarskápur,,-21926044,64131892,,357545.6054,406520.0235,,,,,,,False,,,,Virkur,Ekki skráð
+1607771,"Hlíðar, gatnakerfi",151,151,Ónóg skráning,Heimtaugarskápur,,-21910773,64141583,,358338.256,407564.969,,,,,,,False,,,,Virkur,Ekki skráð
+1607772,"Hlíðar, gatnakerfi",153,153,Ónóg skráning,Heimtaugarskápur,,-21904294,64140959,,358650.2,407480.958,,,,,,,False,,,,Virkur,Ekki skráð
+1607773,"Hlíðar, gatnakerfi",158,158,Ónóg skráning,Heimtaugarskápur,,-21907711,64142094,,358489.8331,407615.0569,,,,,,,False,,,,Virkur,Ekki skráð
+1607795,"Hlíðar, gatnakerfi",320,320,Ónóg skráning,Heimtaugarskápur,,-21918372,64129608,,357907.108,406248.445,,,,,,,False,,,,Virkur,Ekki skráð
+1607804,"Hlíðar, gatnakerfi",375,375,Ónóg skráning,Heimtaugarskápur,,-21898361,64138575,,358926.531,407202.235,,,,,,,False,,,,Virkur,Ekki skráð
+1607810,"Hlíðar, gatnakerfi",400,400,Ónóg skráning,Heimtaugarskápur,,-21901871,64141157,,358769.0514,407497.6453,,,,,,,False,,,,Virkur,Ekki skráð
+1607814,"Hlíðar, gatnakerfi",421,421,Ónóg skráning,Heimtaugarskápur,,-21898894,64134578,,358880.2196,406758.2944,,,,,,,False,,,,Virkur,Ekki skráð
+1607755,"Hlíðar, gatnakerfi",49,49,Ónóg skráning,Heimtaugarskápur,,-21920375,64138018,,357852.953,407189.449,,,,,,,False,,,,Virkur,Ekki skráð
+1607846,"Hlíðar, gatnakerfi",694,694,Ónóg skráning,Heimtaugarskápur,,-21914022,64140868,,358176.598,407492.636,,,,,,,False,,,,Virkur,Ekki skráð
+1607762,"Hlíðar, gatnakerfi",75,75,Ónóg skráning,Heimtaugarskápur,,-21903776,64132754,,358633.387,406566.094,,,,,,,False,,,,Virkur,Ekki skráð
+1607872,"Hlíðar, gatnakerfi",864,864,Ónóg skráning,Heimtaugarskápur,,-21902157,64122106,,358657.676,405376.635,,,,,,,False,,,,Virkur,Ekki skráð
+1607764,"Hlíðar, gatnakerfi",92,92,Ónóg skráning,Heimtaugarskápur,,-21899861,64140395,,358862.8741,407408.2475,,,,,,,False,,,,Virkur,Ekki skráð
+1606573,"Kjalarnes, gatnakerfi",0084_01,84,Arnarholt,Heimtaugarskápur,,-21861517,64245792,,361259.5011,419061.0691,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606623,"Kjalarnes, gatnakerfi",0200_01,200,Esjuberg,Heimtaugarskápur,,-21779878,64214808,,365063.333,415433.5994,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606647,"Kjalarnes, gatnakerfi",0300_01,300,Brautarholt,Heimtaugarskápur,,-21876753,64241612,,360500.1073,418629.0158,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606654,"Kjalarnes, gatnakerfi",0321_01,321,Kirkjuland,Heimtaugarskápur,,-21789887,64217759,,364592.3327,415783.6485,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606671,"Kjalarnes, gatnakerfi",0378_01,378,Stekkur,Heimtaugarskápur,,-2175416,64212523,,366299.796,415124.4703,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606676,"Kjalarnes, gatnakerfi",0388_01,388,Lykkja,Heimtaugarskápur,,-21853147,64239756,,361634.697,418370.468,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606680,"Kjalarnes, gatnakerfi",0404_01,404,Kléberg,Heimtaugarskápur,,-21825162,64237006,,362977.2355,418003.2384,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606745,"Kjalarnes, gatnakerfi",0529_01,529,Smiðjuvegur 9B,Heimtaugarskápur,,-21852896,64113093,,361009.812,404263.673,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606765,"Kjalarnes, gatnakerfi",0610_01,610,,Heimtaugarskápur,,-21831648,64240028,,362677.9521,418353.8463,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,16.09.2022,6.085.259.734,10732556,Virkur,Ekki skráð
+1606811,"Kjalarnes, gatnakerfi",0783_01,783,Fitjakot,Heimtaugarskápur,,-21693428,64188998,,369134.542,412377.264,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606815,"Kjalarnes, gatnakerfi",0793_01,793,Vallá,Heimtaugarskápur,,-21818722,64236712,,363287.926,417956.571,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606816,"Kjalarnes, gatnakerfi",0796_01,796,Norðurgrund,Heimtaugarskápur,,-2183579,6424217,,362487.9281,418601.4546,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,10728777,Virkur,Ekki skráð
+1606832,"Kjalarnes, gatnakerfi",0889_01,889,Hrafnhólar,Heimtaugarskápur,,-215664,64207011,,375384.469,414126.861,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1607887,"Kjalarnes, gatnakerfi",1109,1109,Ónóg skráning,Heimtaugarskápur,,-21694825,64195096,,369095.665,413059.293,,,,,,,False,,,,Virkur,Ekki skráð
+1607888,"Kjalarnes, gatnakerfi",1115,1115,Ónóg skráning,Heimtaugarskápur,,-21753584,64193869,,366237.208,413045.616,,,,,,,False,,,,Virkur,Ekki skráð
+1607889,"Kjalarnes, gatnakerfi",1116,1116,Ónóg skráning,Heimtaugarskápur,,-21834655,64267796,,362670.983,421452.895,,,,,,,False,,,,Virkur,Ekki skráð
+1607915,"Kjalarnes, gatnakerfi",1232,1232,Ónóg skráning,Heimtaugarskápur,,-21698033,64198241,,368954.8985,413416.2038,,,,,,,False,,,,Virkur,Ekki skráð
+1607917,"Kjalarnes, gatnakerfi",1236,1236,Ónóg skráning,Heimtaugarskápur,,-21711384,64208395,,368355.3589,414574.9201,,,,,,,False,,,,Virkur,Ekki skráð
+1607918,"Kjalarnes, gatnakerfi",1237,1237,Ónóg skráning,Heimtaugarskápur,,-21706366,642078,,368596.0056,414498.2382,,,,,,,False,,,,Virkur,Ekki skráð
+1607929,"Kjalarnes, gatnakerfi",1265,1265,Ónóg skráning,Heimtaugarskápur,,-21880856,64235904,,360272.2978,418002.3736,,,,,,,False,,,,Virkur,Ekki skráð
+1607934,"Kjalarnes, gatnakerfi",1273,1273,Ónóg skráning,Heimtaugarskápur,,-21831933,64241931,,362673.6276,418566.3994,,,,,,,False,,,,Virkur,Ekki skráð
+1607936,"Kjalarnes, gatnakerfi",1278,1278,Ónóg skráning,Heimtaugarskápur,,-21804344,6422432,,363923.5561,416545.3831,,,,,,,False,,,,Virkur,Ekki skráð
+1607937,"Kjalarnes, gatnakerfi",1279,1279,Ónóg skráning,Heimtaugarskápur,,-2181315,64229767,,363523.5189,417171.0945,,,,,,,False,,,,Virkur,Ekki skráð
+1607946,"Kjalarnes, gatnakerfi",1292,1292,Ónóg skráning,Heimtaugarskápur,,-21743456,64190629,,366713.2043,412663.3591,,,,,,,False,,,,Virkur,Ekki skráð
+1607948,"Kjalarnes, gatnakerfi",1300,1300,Ónóg skráning,Heimtaugarskápur,,-21852617,64241135,,361667.3266,418522.9089,,,,,,,False,,,,Virkur,Ekki skráð
+1607955,"Kjalarnes, gatnakerfi",1310,1310,Ónóg skráning,Heimtaugarskápur,,-21798335,64220317,,364195.1595,416086.6334,,,,,,,False,,,,Virkur,Ekki skráð
+1607957,"Kjalarnes, gatnakerfi",1316,1316,Ónóg skráning,Heimtaugarskápur,,-21670035,64204829,,370344.9415,414092.2542,,,,,,,False,,,,Virkur,Ekki skráð
+1607958,"Kjalarnes, gatnakerfi",1317,1317,Ónóg skráning,Heimtaugarskápur,,-2166317,64208921,,370697.3094,414533.9995,,,,,,,False,,,,Virkur,Ekki skráð
+1607959,"Kjalarnes, gatnakerfi",1318,1318,Ónóg skráning,Heimtaugarskápur,,-21648636,64208746,,371401.7563,414484.91,,,,,,,False,,,,Virkur,Ekki skráð
+1607960,"Kjalarnes, gatnakerfi",1319,1319,Ónóg skráning,Heimtaugarskápur,,-21648775,64203347,,371369.8164,413883.7426,,,,,,,False,,,,Virkur,Ekki skráð
+1607962,"Kjalarnes, gatnakerfi",1324,1324,Ónóg skráning,Heimtaugarskápur,,-21696857,64207013,,369053.6531,414390.7799,,,,,,,False,,,,Virkur,Ekki skráð
+1607963,"Kjalarnes, gatnakerfi",1327,1327,Ónóg skráning,Heimtaugarskápur,,-21825903,64252924,,363020.6006,419777.6359,,,,,,,False,,,,Virkur,Ekki skráð
+1607964,"Kjalarnes, gatnakerfi",1331,1331,Ónóg skráning,Heimtaugarskápur,,-21792794,64214562,,364435.5736,415433.8661,,,,,,,False,,,,Virkur,Ekki skráð
+1607965,"Kjalarnes, gatnakerfi",1332,1332,Ónóg skráning,Heimtaugarskápur,,-21788752,64215297,,364635.2869,415507.0457,,,,,,,False,,,,Virkur,Ekki skráð
+1607966,"Kjalarnes, gatnakerfi",1333,1333,Ónóg skráning,Heimtaugarskápur,,-21799769,64212453,,364086.8013,415213.9442,,,,,,,False,,,,Virkur,Ekki skráð
+1607991,"Kjalarnes, gatnakerfi",1370,1370,Ónóg skráning,Heimtaugarskápur,,-21763889,64204422,,365788.3506,414242.8761,,,,,,,False,,,,Virkur,Ekki skráð
+1607995,"Kjalarnes, gatnakerfi",1378,1378,Ónóg skráning,Heimtaugarskápur,,-21752154,6418926,,366284.2661,412529.3159,,,,,,,False,,,,Virkur,Ekki skráð
+1608000,"Kjalarnes, gatnakerfi",1391,1391,Ónóg skráning,Heimtaugarskápur,,-21757389,64189114,,366029.3637,412524.1073,,,,,,,False,,,,Virkur,Ekki skráð
+1608005,"Kjalarnes, gatnakerfi",1403,1403,Ónóg skráning,Heimtaugarskápur,,-21864522,64239776,,361083.5403,418397.6773,,,,,,,False,,,,Virkur,Ekki skráð
+1608006,"Kjalarnes, gatnakerfi",1406,1406,Ónóg skráning,Heimtaugarskápur,,-21803372,64218482,,363941.8404,415893.1995,,,,,,,False,,,,Virkur,Ekki skráð
+1608009,"Kjalarnes, gatnakerfi",1414,1414,Ónóg skráning,Heimtaugarskápur,,-21901877,64232885,,359238.0112,417712.868,,,,,,,False,,,,Virkur,Ekki skráð
+1608012,"Kjalarnes, gatnakerfi",1422,1422,Ónóg skráning,Heimtaugarskápur,,-21693128,64196427,,369184.3534,413204.0134,,,,,,,False,,,,Virkur,Ekki skráð
+1608015,"Kjalarnes, gatnakerfi",1433,1433,Ónóg skráning,Heimtaugarskápur,,-21693373,64199057,,369184.9613,413497.4946,,,,,,,False,,,,Virkur,Ekki skráð
+1608016,"Kjalarnes, gatnakerfi",1438,1438,Ónóg skráning,Heimtaugarskápur,,-21775151,64212775,,365282.7098,415197.1006,,,,,,,False,,,,Virkur,Ekki skráð
+1608019,"Kjalarnes, gatnakerfi",1444,1444,Ónóg skráning,Heimtaugarskápur,,-21841721,64269462,,362337.2534,421653.8615,,,,,,,False,,,,Virkur,Ekki skráð
+1608020,"Kjalarnes, gatnakerfi",1445,1445,Ónóg skráning,Heimtaugarskápur,,-21855719,64267923,,361651.8574,421512.9817,,,,,,,False,,,,Virkur,Ekki skráð
+1608021,"Kjalarnes, gatnakerfi",1446,1446,Ónóg skráning,Heimtaugarskápur,,-21863368,64258707,,361235.0146,420503.42,,,,,,,False,,,,Virkur,Ekki skráð
+1608025,"Kjalarnes, gatnakerfi",1476,1476,Ónóg skráning,Heimtaugarskápur,,-21440205,64233301,,381622.0336,416812.9291,,,,,,,False,,,,Virkur,Ekki skráð
+1608029,"Kjalarnes, gatnakerfi",1481,1481,Ónóg skráning,Heimtaugarskápur,,-21481089,6421094,,379541.9003,414399.1669,,,,,,,False,,,,Virkur,Ekki skráð
+1608032,"Kjalarnes, gatnakerfi",1500,1500,Ónóg skráning,Heimtaugarskápur,,-21815947,64241146,,363444.4257,418444.3783,,,,,,,False,,,,Virkur,Ekki skráð
+1606847,"Kjalarnes, gatnakerfi",1501_01,1501,,Heimtaugarskápur,,-21693911,64198291,,369155.2,413413.3,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,07.02.2023,,,Virkur,Ekki skráð
+1607786,"Kjalarnes, gatnakerfi",279,279,Ónóg skráning,Heimtaugarskápur,,-21737187,64207727,,367100.088,414554.482,,,,,,,False,,,,Virkur,Ekki skráð
+1607800,"Kjalarnes, gatnakerfi",342,342,Ónóg skráning,Heimtaugarskápur,,-21462922,64240521,,380551.886,417659.989,,,,,,,False,,,,Virkur,Ekki skráð
+1607821,"Kjalarnes, gatnakerfi",525,525,Ónóg skráning,Heimtaugarskápur,,-21433507,64233965,,381949.6283,416874.4309,,,,,,,False,,,,Virkur,Ekki skráð
+1607853,"Kjalarnes, gatnakerfi",760,760,Ónóg skráning,Heimtaugarskápur,,-21802838,64218391,,363967.2771,415881.807,,,,,,,False,,,,Virkur,Ekki skráð
+1607859,"Kjalarnes, gatnakerfi",816,816,Ónóg skráning,Heimtaugarskápur,,-2166642,64194672,,370472.6591,412953.5507,,,,,,,False,,,,Virkur,Ekki skráð
+1607862,"Kjalarnes, gatnakerfi",836,836,Ónóg skráning,Heimtaugarskápur,,-2181895,64209071,,363139.484,414878.612,,,,,,,False,,,,Virkur,Ekki skráð
+1607869,"Kjalarnes, gatnakerfi",854,854,Ónóg skráning,Heimtaugarskápur,,-21745771,6418467,,366571.9503,412004.595,,,,,,,False,,,,Virkur,Ekki skráð
+1607884,"Kjalarnes, gatnakerfi",936,936,Ónóg skráning,Heimtaugarskápur,,-21760486,64208153,,365971.6276,414651.1149,,,,,,,False,,,,Virkur,Ekki skráð
+1606543,"Laugardalur, gatnakerfi",0028_01,28,,Heimtaugarskápur,,-21858862,64133935,,360824.383,406597.924,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,08.09.2022,6.085.259.863,10732488,Virkur,Ekki skráð
+1606544,"Laugardalur, gatnakerfi",0029_01,29,,Heimtaugarskápur,,-2190342,64145376,,358715.3,407970.9,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,27.07.2023,6.086.839.268,,Virkur,Ekki skráð
+1606558,"Laugardalur, gatnakerfi",0052_01,52,,Heimtaugarskápur,,-21862148,64140067,,360695.497,407288.084,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,01.08.2023,6.086.839.265,,Virkur,Ekki skráð
+1606592,"Laugardalur, gatnakerfi",0126_01,126,Hátún 6B,Heimtaugarskápur,,-21899223,64142195,,358903.111,407607.278,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606600,"Laugardalur, gatnakerfi",0137_01,137,Karfavogur 43,Heimtaugarskápur,,-21856825,64129228,,360899.7798,406069.177,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606603,"Laugardalur, gatnakerfi",0140_01,140,,Heimtaugarskápur,,-21887876,64142827,,359458.188,407652.398,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,30.04.2024,6.089.319.270,,Virkur,Ekki skráð
+1606605,"Laugardalur, gatnakerfi",0148_01,148,,Heimtaugarskápur,,-21872289,64140812,,360206.016,407393.457,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,13.09.2022,6.085.259.763,10732522,Virkur,Ekki skráð
+1606621,"Laugardalur, gatnakerfi",0188_01,188,Vatnagarðar 12,Heimtaugarskápur,,-21858409,64146824,,360911.376,408032.382,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606622,"Laugardalur, gatnakerfi",0189_01,189,Vatnagarðar 24,Heimtaugarskápur,,-21854529,64145073,,361091.246,407828.787,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606632,"Laugardalur, gatnakerfi",0250_01,250,Korngarðar 10,Heimtaugarskápur,,-21859654,6415124,,360873.1071,408526.9331,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606633,"Laugardalur, gatnakerfi",0251_01,251,Dalsmynni,Heimtaugarskápur,,-21840693,6427282,,362403.836,422025.561,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606634,"Laugardalur, gatnakerfi",0258_01,258,Saurbær,Heimtaugarskápur,,-2183703,6428048,,362619.4384,422870.6935,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606635,"Laugardalur, gatnakerfi",0260_01,260,Skútuvogur 13,Heimtaugarskápur,,-21854172,64134805,,361056.949,406684.465,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606638,"Laugardalur, gatnakerfi",0267_01,267,,Heimtaugarskápur,,-21869429,6414518,,360367.213,407873.506,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,11.04.2024,6.089.318.943,,Virkur,Ekki skráð
+1606649,"Laugardalur, gatnakerfi",0305_01,305,Kleppsvegur 52,Heimtaugarskápur,,-21871126,64149412,,360306.098,408348.569,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606650,"Laugardalur, gatnakerfi",0308_01,308,Rauðalækur 11,Heimtaugarskápur,,-21882096,64149418,,359772.741,408373.515,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606655,"Laugardalur, gatnakerfi",0322_01,322,Dugguvogur 11,Heimtaugarskápur,,-21847381,64129796,,361362.188,406111.697,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606656,"Laugardalur, gatnakerfi",0325_01,325,Rauðavatn,Heimtaugarskápur,,-21779746,64111438,,364563.1636,403920.5129,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606657,"Laugardalur, gatnakerfi",0327_01,327,,Heimtaugarskápur,,-21861316,64135998,,360715.399,406833.027,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,08.09.2022,8.085.259.868,10732487,Virkur,Ekki skráð
+1606659,"Laugardalur, gatnakerfi",0332_01,332,,Heimtaugarskápur,,-2186512,64132662,,360513.541,406469.942,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,18.10.2022,6.085.259.581,10732738,Virkur,Ekki skráð
+1606661,"Laugardalur, gatnakerfi",0348_01,348,,Heimtaugarskápur,,-21866892,64145723,,360493.351,407928.46,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,08.09.2022,6.085.259.869,10732489,Virkur,Ekki skráð
+1606662,"Laugardalur, gatnakerfi",0349_01,349,Kleppsvegur 8,Heimtaugarskápur,,-21880606,64150586,,359851.162,408500.305,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606679,"Laugardalur, gatnakerfi",0403_01,403,Kleppsvegur 120,Heimtaugarskápur,,-2185306,64142996,,361152.238,407594.275,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606681,"Laugardalur, gatnakerfi",0405_01,405,,Heimtaugarskápur,,-21857728,64131289,,360866.225,406300.791,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,08.08.2022,6.084.693.030,10732279,Virkur,Ekki skráð
+1606682,"Laugardalur, gatnakerfi",0406_01,406,Skjólbraut 7,Heimtaugarskápur,,-21911569,64110019,,358137.5619,404051.6678,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606684,"Laugardalur, gatnakerfi",0408_01,408,Þórunnartún 2,Heimtaugarskápur,,-21911084,64144831,,358339.823,407927.405,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606685,"Laugardalur, gatnakerfi",0414_01,414,Kjalarvogur 17A,Heimtaugarskápur,,-21841494,64139305,,361696.241,407157.803,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606690,"Laugardalur, gatnakerfi",0426_01,426,Kleppsvegur 74,Heimtaugarskápur,,-21862952,64147346,,360693.113,408100.447,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606700,"Laugardalur, gatnakerfi",0440_01,440,Laugardalshöll,Heimtaugarskápur,,-21877848,64140612,,359934.627,407383.401,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606708,"Laugardalur, gatnakerfi",0448_01,448,Skeifan 13,Heimtaugarskápur,,-21870729,64130549,,360229.9581,406246.9777,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606709,"Laugardalur, gatnakerfi",0450_01,450,Njörvasund 12,Heimtaugarskápur,,-21853285,64138288,,361117.595,407070.411,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606710,"Laugardalur, gatnakerfi",0455_01,455,,Heimtaugarskápur,,-21856895,64142226,,360961.875,407516.985,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,20.10.2022,6.085.259.539,10732693,Virkur,Ekki skráð
+1606716,"Laugardalur, gatnakerfi",0476_01,476,,Heimtaugarskápur,,-21853029,6412885,,361082.591,406018.811,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,20.10.2022,6.085.259.540,10732745,Virkur,Ekki skráð
+1606718,"Laugardalur, gatnakerfi",0478_01,478,Hverfisgata 113,Heimtaugarskápur,,-2191418,64143916,,358184.56,407832.413,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606728,"Laugardalur, gatnakerfi",0495_01,495,Grensásvegur 3,Heimtaugarskápur,,-21872604,64132486,,360148.541,406466.903,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606729,"Laugardalur, gatnakerfi",0496_01,496,Hátún 10,Heimtaugarskápur,,-21896114,64142128,,359053.982,407592.889,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606740,"Laugardalur, gatnakerfi",0511_01,511,Borgartún 38,Heimtaugarskápur,,-21892002,64145881,,359273.0822,408001.6969,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606749,"Laugardalur, gatnakerfi",0541_01,541,Holtavegur,Heimtaugarskápur,,-21846015,64142715,,361493.459,407547.526,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606760,"Laugardalur, gatnakerfi",0590_01,590,Þvottalaugarvegur 25,Heimtaugarskápur,,-2186876,64138796,,360367.449,407161.054,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606762,"Laugardalur, gatnakerfi",0603_01,603,Holtabakki,Heimtaugarskápur,,-21844137,64142266,,361582.549,407493.455,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606770,"Laugardalur, gatnakerfi",0623_01,623,Skútuvogur 4,Heimtaugarskápur,,-21847374,64139061,,361409.035,407143.562,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606777,"Laugardalur, gatnakerfi",0642_01,642,Korngarðar 12,Heimtaugarskápur,,-21858484,64151773,,360932.663,408583.712,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606779,"Laugardalur, gatnakerfi",0646_01,646,Faxafen 9,Heimtaugarskápur,,-21866051,6412943,,360451.917,406112.103,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606787,"Laugardalur, gatnakerfi",0660_01,660,Sigrún 40A,Heimtaugarskápur,,-21890356,64141735,,359332.037,407536.316,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606814,"Laugardalur, gatnakerfi",0789_01,789,,Heimtaugarskápur,,-21886262,64151581,,359581.24,408623.714,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,09.08.2022,6.085.693.028,10732274,Virkur,Ekki skráð
+1606822,"Laugardalur, gatnakerfi",0808_01,808,Klettagarðar,Heimtaugarskápur,,-21873368,64155433,,360227.619,409024.065,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1607877,"Laugardalur, gatnakerfi",0884_01,884,,Heimtaugarskápur,,-21867413,64142684,,360452.648,407591.152,,,,,,,True,27.06.2022,6.084.693.070,,Virkur,Ekki skráð
+1606831,"Laugardalur, gatnakerfi",0886_01,886,Stóragerði 46,Heimtaugarskápur,,-21886439,64125836,,359441.6,405757,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606834,"Laugardalur, gatnakerfi",0894_01,894,Reykjavegur,Heimtaugarskápur,,-21881402,64145542,,359786.803,407940.342,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1607767,"Laugardalur, gatnakerfi",107,107,Ónóg skráning,Heimtaugarskápur,,-21886277,64145406,,359549.095,407936.068,,,,,,,False,,,,Virkur,Ekki skráð
+1607886,"Laugardalur, gatnakerfi",1105,1105,Ónóg skráning,Heimtaugarskápur,,-21844272,64137841,,361553.76,407000.842,,,,,,,False,,,,Virkur,Ekki skráð
+1607896,"Laugardalur, gatnakerfi",1150,1150,Ónóg skráning,Heimtaugarskápur,,-21897949,64145422,,358981.56,407963.839,,,,,,,False,,,,Virkur,Ekki skráð
+1607897,"Laugardalur, gatnakerfi",1162,1162,Ónóg skráning,Heimtaugarskápur,,-21864768,64155639,,360646.699,409028.033,,,,,,,False,,,,Virkur,Ekki skráð
+1607901,"Laugardalur, gatnakerfi",1187,1187,Ónóg skráning,Heimtaugarskápur,,-21897596,64143749,,358990.175,407776.733,,,,,,,False,,,,Virkur,Ekki skráð
+1607905,"Laugardalur, gatnakerfi",1199,1199,Ónóg skráning,Heimtaugarskápur,,-21906827,6414454,,358545.33,407885.421,,,,,,,False,,,,Virkur,Ekki skráð
+1607754,"Laugardalur, gatnakerfi",12,12,Ónóg skráning,Heimtaugarskápur,,-21751017,64100772,,365910.3057,402671.3413,,,,,,,False,,,,Virkur,Ekki skráð
+1607920,"Laugardalur, gatnakerfi",1243,1243,Ónóg skráning,Heimtaugarskápur,,-21842632,64135297,,361620.787,406714.014,,,,,,,False,,,,Virkur,Ekki skráð
+1607926,"Laugardalur, gatnakerfi",1255,1255,Ónóg skráning,Heimtaugarskápur,,-21857196,64127835,,360874.717,405914.944,,,,,,,False,,,,Virkur,Ekki skráð
+1607928,"Laugardalur, gatnakerfi",1264,1264,Ónóg skráning,Heimtaugarskápur,,-21909605,64146149,,358418.5125,408070.8686,,,,,,,False,,,,Virkur,Ekki skráð
+1607938,"Laugardalur, gatnakerfi",1281,1281,Ónóg skráning,Heimtaugarskápur,,-21909858,64144181,,358396.1157,407852.2793,,,,,,,False,,,,Virkur,Ekki skráð
+1607939,"Laugardalur, gatnakerfi",1283,1283,Ónóg skráning,Heimtaugarskápur,,-21858968,64152773,,360914.1713,408696.0895,,,,,,,False,,,,Virkur,Ekki skráð
+1607942,"Laugardalur, gatnakerfi",1286,1286,Ónóg skráning,Heimtaugarskápur,,-21860807,64147892,,360800.1683,408156.5571,,,,,,,False,,,,Virkur,Ekki skráð
+1607944,"Laugardalur, gatnakerfi",1290,1290,Ónóg skráning,Heimtaugarskápur,,-21861392,64152654,,360795.7369,408688.2291,,,,,,,False,,,,Virkur,Ekki skráð
+1607947,"Laugardalur, gatnakerfi",1298,1298,Ónóg skráning,Heimtaugarskápur,,-21865476,64151472,,360591.2411,408565.5849,,,,,,,False,,,,Virkur,Ekki skráð
+1607949,"Laugardalur, gatnakerfi",1302,1302,Ónóg skráning,Heimtaugarskápur,,-21868641,64155085,,360455.6341,408974.8804,,,,,,,False,,,,Virkur,Ekki skráð
+1607961,"Laugardalur, gatnakerfi",1323,1323,Ónóg skráning,Heimtaugarskápur,,-21913754,64143606,,358203.6768,407796.9638,,,,,,,False,,,,Virkur,Ekki skráð
+1607983,"Laugardalur, gatnakerfi",1361,1361,Ónóg skráning,Heimtaugarskápur,,-21842387,64137264,,361642.5584,406932.4959,,,,,,,False,,,,Virkur,Ekki skráð
+1607990,"Laugardalur, gatnakerfi",1368,1368,Ónóg skráning,Heimtaugarskápur,,-21848836,6413253,,361305.1084,406419.3658,,,,,,,False,,,,Virkur,Ekki skráð
+1607998,"Laugardalur, gatnakerfi",1382,1382,Ónóg skráning,Heimtaugarskápur,,-21846142,64145919,,361503.3412,407904.5888,,,,,,,False,,,,Virkur,Ekki skráð
+1608001,"Laugardalur, gatnakerfi",1394,1394,Ónóg skráning,Heimtaugarskápur,,-21862143,64153508,,360763.5414,408784.9669,,,,,,,False,,,,Virkur,Ekki skráð
+1608003,"Laugardalur, gatnakerfi",1399,1399,Ónóg skráning,Heimtaugarskápur,,-21891182,6414725,,359319.9372,408152.3612,,,,,,,False,,,,Virkur,Ekki skráð
+1608004,"Laugardalur, gatnakerfi",1400,1400,Ónóg skráning,Heimtaugarskápur,,-21889388,64148339,,359412.7109,408269.5766,,,,,,,False,,,,Virkur,Ekki skráð
+1607770,"Laugardalur, gatnakerfi",141,141,Ónóg skráning,Heimtaugarskápur,,-21853123,64131683,,361092.294,406334.456,,,,,,,False,,,,Virkur,Ekki skráð
+1608024,"Laugardalur, gatnakerfi",1457,1457,Ónóg skráning,Heimtaugarskápur,,-21841991,64133161,,361641.2962,406474.6663,,,,,,,False,,,,Virkur,Ekki skráð
+1608027,"Laugardalur, gatnakerfi",1479,1479,Ónóg skráning,Heimtaugarskápur,,-21844336,64133145,,361527.1169,406478.057,,,,,,,False,,,,Virkur,Ekki skráð
+1608034,"Laugardalur, gatnakerfi",1511,1511,Ónóg skráning,Heimtaugarskápur,,-21873597,64151553,,360196.8301,408592.4723,,,,,,,False,,,,Virkur,Ekki skráð
+1607779,"Laugardalur, gatnakerfi",211,211,Ónóg skráning,Heimtaugarskápur,,-21873461,64130419,,360096.3879,406238.5555,,,,,,,False,,,,Virkur,Ekki skráð
+1607783,"Laugardalur, gatnakerfi",266,266,Ónóg skráning,Heimtaugarskápur,,-2186751,64147685,,360473.206,408148.34,,,,,,,False,,,,Virkur,Ekki skráð
+1607785,"Laugardalur, gatnakerfi",278,278,Ónóg skráning,Heimtaugarskápur,,-21846478,64133963,,361427.0319,406573.8219,,,,,,,False,,,,Virkur,Ekki skráð
+1607787,"Laugardalur, gatnakerfi",281,281,Ónóg skráning,Heimtaugarskápur,,-21888466,64148903,,359460.429,408330.344,,,,,,,False,,,,Virkur,Ekki skráð
+1607788,"Laugardalur, gatnakerfi",285,285,Ónóg skráning,Heimtaugarskápur,,-21862297,6414381,,360707.127,407705.264,,,,,,,False,,,,Virkur,Ekki skráð
+1607752,"Laugardalur, gatnakerfi",3,3,Ónóg skráning,Heimtaugarskápur,,-21892016,64145708,,359271.548,407982.481,,,,,,,False,,,,Virkur,Ekki skráð
+1607793,"Laugardalur, gatnakerfi",314,314,Ónóg skráning,Heimtaugarskápur,,-21862887,64133046,,360624.08,406507.734,,,,,,,False,,,,Virkur,Ekki skráð
+1607796,"Laugardalur, gatnakerfi",326,326,Ónóg skráning,Heimtaugarskápur,,-21864223,64134872,,360568.335,406714.051,,,,,,,False,,,,Virkur,Ekki skráð
+1607811,"Laugardalur, gatnakerfi",411,411,Ónóg skráning,Heimtaugarskápur,,-21871755,64132921,,360192.0416,406513.4384,,,,,,,False,,,,Virkur,Ekki skráð
+1607818,"Laugardalur, gatnakerfi",458,458,Ónóg skráning,Heimtaugarskápur,,-21877846,64151481,,359989.879,408593.944,,,,,,,False,,,,Virkur,Ekki skráð
+1607822,"Laugardalur, gatnakerfi",543,543,Ónóg skráning,Heimtaugarskápur,,-2187862,64144541,,359917.0128,407822.7035,,,,,,,False,,,,Virkur,Ekki skráð
+1607757,"Laugardalur, gatnakerfi",58,58,Ónóg skráning,Heimtaugarskápur,,-21849191,6414505,,361350.723,407814.5184,,,,,,,False,,,,Virkur,Ekki skráð
+1607825,"Laugardalur, gatnakerfi",597,597,Ónóg skráning,Heimtaugarskápur,,-21854605,64145434,,361089.378,407869.19,,,,,,,False,,,,Virkur,Ekki skráð
+1607829,"Laugardalur, gatnakerfi",613,613,Ónóg skráning,Heimtaugarskápur,,-21870151,641316,,360263.379,406362.748,,,,,,,False,,,,Virkur,Ekki skráð
+1607838,"Laugardalur, gatnakerfi",662,662,Ónóg skráning,Heimtaugarskápur,,-21847153,64136175,,361405.277,406821.682,,,,,,,False,,,,Virkur,Ekki skráð
+1607840,"Laugardalur, gatnakerfi",666,666,Ónóg skráning,Heimtaugarskápur,,-21889032,64150271,,359439.854,408483.939,,,,,,,False,,,,Virkur,Ekki skráð
+1607845,"Laugardalur, gatnakerfi",687,687,Ónóg skráning,Heimtaugarskápur,,-21871975,64130183,,360167.4969,406208.9944,,,,,,,False,,,,Virkur,Ekki skráð
+1607848,"Laugardalur, gatnakerfi",701,701,Ónóg skráning,Heimtaugarskápur,,-21870153,6415008,,360356.8203,408420.8467,,,,,,,False,,,,Virkur,Ekki skráð
+1607851,"Laugardalur, gatnakerfi",755,755,Ónóg skráning,Heimtaugarskápur,,-2186879,64153315,,360439.4409,408778.1373,,,,,,,False,,,,Virkur,Ekki skráð
+1607852,"Laugardalur, gatnakerfi",759,759,Ónóg skráning,Heimtaugarskápur,,-21849414,64141729,,361323.1731,407445.1964,,,,,,,False,,,,Virkur,Ekki skráð
+1607753,"Laugardalur, gatnakerfi",8,8,Ónóg skráning,Heimtaugarskápur,,-21878233,64153631,,359981.949,408834.144,,,,,,,False,,,,Virkur,Ekki skráð
+1607763,"Laugardalur, gatnakerfi",81,81,Ónóg skráning,Heimtaugarskápur,,-21878312,6414635,,359941.1711,408023.4572,,,,,,,False,,,,Virkur,Ekki skráð
+1607861,"Laugardalur, gatnakerfi",835,835,Ónóg skráning,Heimtaugarskápur,,-21901083,64146556,,358834.965,408097.05,,,,,,,False,,,,Virkur,Ekki skráð
+1607863,"Laugardalur, gatnakerfi",839,839,Ónóg skráning,Heimtaugarskápur,,-21876344,6415245,,360067.833,408698.516,,,,,,,False,,,,Virkur,Ekki skráð
+1607865,"Laugardalur, gatnakerfi",846,846,Ónóg skráning,Heimtaugarskápur,,-21902223,64143815,,358765.529,407794.376,,,,,,,False,,,,Virkur,Ekki skráð
+1607873,"Laugardalur, gatnakerfi",867,867,Ónóg skráning,Heimtaugarskápur,,-21884911,64149411,,359635.882,408378.992,,,,,,,False,,,,Virkur,Ekki skráð
+1607876,"Laugardalur, gatnakerfi",882,882,Ónóg skráning,Heimtaugarskápur,,-21839344,64139277,,361800.704,407150.083,,,,,,,False,,,,Virkur,Ekki skráð
+1607880,"Laugardalur, gatnakerfi",896,896,Ónóg skráning,Heimtaugarskápur,,-21858172,6415159,,360946.915,408562.579,,,,,,,False,,,,Virkur,Ekki skráð
+1607882,"Laugardalur, gatnakerfi",925,925,Ónóg skráning,Heimtaugarskápur,,-21850816,64138918,,361240.883,407135.212,,,,,,,False,,,,Virkur,Ekki skráð
+1607766,"Laugardalur, gatnakerfi",97,97,Ónóg skráning,Heimtaugarskápur,,-21869145,64133888,,360323.8941,406615.4191,,,,,,,False,,,,Virkur,Ekki skráð
+1608040,"Laugardalur, gatnakerfi",9992,9992,Ónóg skráning,Heimtaugarskápur,,-21858326,64147116,,360916.89,408064.661,,,,,,,False,,,,Virkur,Ekki skráð
+1608041,"Laugardalur, gatnakerfi",9993,9993,Ónóg skráning,Heimtaugarskápur,,-21863908,64149911,,360659.588,408388.29,,,,,,,False,,,,Virkur,Ekki skráð
+1606521,"Miðborg, gatnakerfi",0004_01,4,Suðurgata 1,Heimtaugarskápur,,-21942833,64147114,,356807.811,408253.109,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606522,"Miðborg, gatnakerfi",0005_01,5,,Heimtaugarskápur,,-21835394,6411934,,361893.165,404921.031,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,08.08.2023,6.086.839.222,,Virkur,Ekki skráð
+1606523,"Miðborg, gatnakerfi",0006_01,6,Grettisgata 89,Heimtaugarskápur,,-21887171,6411173,,359334.188,404187.633,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606524,"Miðborg, gatnakerfi",0009_01,9,,Heimtaugarskápur,,-21667567,64160818,,370257.7565,409185.1695,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,13.10.2022,,10732715,Virkur,Ekki skráð
+1606528,"Miðborg, gatnakerfi",0013_01,13,,Heimtaugarskápur,,-21930809,64142455,,357368.348,407707.093,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,28.07.2023,6.086.839.267,,Virkur,Ekki skráð
+1606529,"Miðborg, gatnakerfi",0014_01,14,,Heimtaugarskápur,,-21935808,6414313,,357128.759,407793.619,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,27.03.2024,6.085.259.808,,Virkur,Ekki skráð
+1606538,"Miðborg, gatnakerfi",0024_01,24,,Heimtaugarskápur,,-21930794,64122489,,357265.92,405483.603,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,01.08.2023,6.086.839.260,,Virkur,Ekki skráð
+1606539,"Miðborg, gatnakerfi",0026_01,26,,Heimtaugarskápur,,-21928982,64139958,,357444.314,407424.885,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,15.12.2022,7.800.211,10733222,Virkur,Ekki skráð
+1606545,"Miðborg, gatnakerfi",0030_01,30,,Heimtaugarskápur,,-21918625,64144862,,357973.2692,407947.724,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,24.11.2022,6.085.793.237,10733025,Virkur,Ekki skráð
+1606554,"Miðborg, gatnakerfi",0042_01,42,,Heimtaugarskápur,,-21927645,6414497,,357535.237,407980.047,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,09.09.2022,6.085.259.789,10732492,Virkur,Ekki skráð
+1606555,"Miðborg, gatnakerfi",0043_01,43,,Heimtaugarskápur,,-21922727,64145993,,357779.635,408082.944,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,02.08.2023,6.086.839.249,,Virkur,Ekki skráð
+1606564,"Miðborg, gatnakerfi",0066_01,66,Reykjavíkurflugvöllur,Heimtaugarskápur,,-21931539,64128934,,357262.9999,406203.0498,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606569,"Miðborg, gatnakerfi",0076_01,76,Lækjargata 8,Heimtaugarskápur,,-21938143,64146854,,357034.4778,408213.5322,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606579,"Miðborg, gatnakerfi",0103_01,103,,Heimtaugarskápur,,-219208,64141431,,357849.852,407570.586,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,02.04.2024,6.086.837.818,,Virkur,Ekki skráð
+1606580,"Miðborg, gatnakerfi",0106_01,106,Félagsstofnun Stúdenta,Heimtaugarskápur,,-21947019,64141642,,356575.8363,407653.2441,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606585,"Miðborg, gatnakerfi",0112_01,112,Fjölnisvegur 2,Heimtaugarskápur,,-21933512,6414108,,357229.796,407560.111,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606594,"Miðborg, gatnakerfi",0129_01,129,Grófarbryggja,Heimtaugarskápur,,-21941237,64150169,,356901.218,408589.775,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606597,"Miðborg, gatnakerfi",0132_01,132,Fluggarðar,Heimtaugarskápur,,-21946404,64133784,,356564.9381,406776.8098,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606669,"Miðborg, gatnakerfi",0374_01,374,Loftleiðir,Heimtaugarskápur,,-21932553,64131303,,357225.922,406469.177,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606693,"Miðborg, gatnakerfi",0432_01,432,Umferðarmiðstöðin,Heimtaugarskápur,,-21935173,64137616,,357131.077,407178.086,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606712,"Miðborg, gatnakerfi",0463_01,463,Klapparstígur 7B,Heimtaugarskápur,,-21927887,64147413,,357536.048,408252.674,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606721,"Miðborg, gatnakerfi",0483_01,483,Árnagarður,Heimtaugarskápur,,-21951469,64139136,,356346.387,407384.236,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606754,"Miðborg, gatnakerfi",0568_01,568,,Heimtaugarskápur,,-21941455,64148746,,356883.245,408431.781,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,24.11.2022,,10733021,Virkur,Ekki skráð
+1606766,"Miðborg, gatnakerfi",0615_01,615,Kalkofnsvegur 3,Heimtaugarskápur,,-21931881,64148521,,357347.6043,408385.0975,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606799,"Miðborg, gatnakerfi",0712_01,712,Hallveigarstígur 7,Heimtaugarskápur,,-21933296,64145407,,357262.7031,408041.4701,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606800,"Miðborg, gatnakerfi",0715_01,715,Trönuhjalli 1a,Heimtaugarskápur,,-21858486,6410761,,360710.044,403665.298,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606801,"Miðborg, gatnakerfi",0720_01,720,Breiðholtsbraut-brú,Heimtaugarskápur,,-21799068,64097081,,363551.548,402363.09,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1607892,"Miðborg, gatnakerfi",1131,1131,Ónóg skráning,Heimtaugarskápur,,-21926277,64147306,,357613.788,408237.082,,,,,,,False,,,,Virkur,Ekki skráð
+1606839,"Miðborg, gatnakerfi",1143_01,1143,,Heimtaugarskápur,,-21917767,64143,,358005.433,407738.482,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,10.08.2022,6.084.692.915,10732283,Virkur,Ekki skráð
+1607902,"Miðborg, gatnakerfi",1189,1189,Ónóg skráning,Heimtaugarskápur,,-21934945,64150374,,357208.1996,408598.3431,,,,,,,False,,,,Virkur,Ekki skráð
+1607924,"Miðborg, gatnakerfi",1253,1253,Ónóg skráning,Heimtaugarskápur,,-21925346,64124117,,357539.491,405652.626,,,,,,,False,,,,Virkur,Ekki skráð
+1607927,"Miðborg, gatnakerfi",1263,1263,Ónóg skráning,Heimtaugarskápur,,-21931761,64150371,,357362.9719,408590.8132,,,,,,,False,,,,Virkur,Ekki skráð
+1607943,"Miðborg, gatnakerfi",1288,1288,Ónóg skráning,Heimtaugarskápur,,-21948539,64137486,,356480.3179,407193.8331,,,,,,,False,,,,Virkur,Ekki skráð
+1607968,"Miðborg, gatnakerfi",1335,1335,Ónóg skráning,Heimtaugarskápur,,-21948939,64135256,,356449.2524,406946.4754,,,,,,,False,,,,Virkur,Ekki skráð
+1606845,"Miðborg, gatnakerfi",1337_01,1337,,Heimtaugarskápur,,-2193795,64148255,,357051.1143,408369.1395,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,28.11.2022,,10733035,Virkur,Ekki skráð
+1607975,"Miðborg, gatnakerfi",1349,1349,Ónóg skráning,Heimtaugarskápur,,-21946865,64136958,,356558.9654,407131.3348,,,,,,,False,,,,Virkur,Ekki skráð
+1607976,"Miðborg, gatnakerfi",1350,1350,Ónóg skráning,Heimtaugarskápur,,-21935594,64147908,,357163.8869,408325.1671,,,,,,,False,,,,Virkur,Ekki skráð
+1607979,"Miðborg, gatnakerfi",1356,1356,Ónóg skráning,Heimtaugarskápur,,-21934857,64150042,,357210.7713,408561.1964,,,,,,,False,,,,Virkur,Ekki skráð
+1607981,"Miðborg, gatnakerfi",1359,1359,Ónóg skráning,Heimtaugarskápur,,-21920844,64145172,,357866.9688,407987.1941,,,,,,,False,,,,Virkur,Ekki skráð
+1607982,"Miðborg, gatnakerfi",1360,1360,Ónóg skráning,Heimtaugarskápur,,-21942189,64140173,,356803.1041,407478.7565,,,,,,,False,,,,Virkur,Ekki skráð
+1607986,"Miðborg, gatnakerfi",1364,1364,Ónóg skráning,Heimtaugarskápur,,-21930395,64134795,,357348.9428,406853.1536,,,,,,,False,,,,Virkur,Ekki skráð
+1607993,"Miðborg, gatnakerfi",1373,1373,Ónóg skráning,Heimtaugarskápur,,-21928282,64146024,,357509.6863,408098.8354,,,,,,,False,,,,Virkur,Ekki skráð
+1607994,"Miðborg, gatnakerfi",1376,1376,Ónóg skráning,Heimtaugarskápur,,-21928573,64137108,,357449.479,407106.629,,,,,,,False,,,,Virkur,Ekki skráð
+1607997,"Miðborg, gatnakerfi",1381,1381,Ónóg skráning,Heimtaugarskápur,,-21919622,64144983,,357925.4034,407963.5069,,,,,,,False,,,,Virkur,Ekki skráð
+1608002,"Miðborg, gatnakerfi",1398,1398,Ónóg skráning,Heimtaugarskápur,,-21935108,64150612,,357201.4906,408625.2014,,,,,,,False,,,,Virkur,Ekki skráð
+1608007,"Miðborg, gatnakerfi",1408,1408,Ónóg skráning,Heimtaugarskápur,,-21934705,64148793,,357211.691,408421.7468,,,,,,,False,,,,Virkur,Ekki skráð
+1608013,"Miðborg, gatnakerfi",1423,1423,Ónóg skráning,Heimtaugarskápur,,-21941266,64147662,,356886.8453,408310.5631,,,,,,,False,,,,Virkur,Ekki skráð
+1608014,"Miðborg, gatnakerfi",1429,1429,Ónóg skráning,Heimtaugarskápur,,-21925652,64136462,,357588.2461,407028.1249,,,,,,,False,,,,Virkur,Ekki skráð
+1608018,"Miðborg, gatnakerfi",1441,1441,Ónóg skráning,Heimtaugarskápur,,-2195026,64136632,,356392.1531,407102.7182,,,,,,,False,,,,Virkur,Ekki skráð
+1608022,"Miðborg, gatnakerfi",1450,1450,Ónóg skráning,Heimtaugarskápur,,-21931362,6413641,,357310.2529,407035.1723,,,,,,,False,,,,Virkur,Ekki skráð
+1607776,"Miðborg, gatnakerfi",176,176,Ónóg skráning,Heimtaugarskápur,,-2192954,64136861,,357401.198,407081.27,,,,,,,False,,,,Virkur,Ekki skráð
+1607789,"Miðborg, gatnakerfi",287,287,Ónóg skráning,Heimtaugarskápur,,-21942545,64148368,,356828.298,408392.122,,,,,,,False,,,,Virkur,Ekki skráð
+1607791,"Miðborg, gatnakerfi",296,296,Ónóg skráning,Heimtaugarskápur,,-21945523,64125678,,356565.7174,405872.138,,,,,,,False,,,,Virkur,Ekki skráð
+1607798,"Miðborg, gatnakerfi",334,334,Ónóg skráning,Heimtaugarskápur,,-21930068,64148883,,357437.619,408421.338,,,,,,,False,,,,Virkur,Ekki skráð
+1607812,"Miðborg, gatnakerfi",412,412,Ónóg skráning,Heimtaugarskápur,,-21936154,64141599,,357103.992,407623.825,,,,,,,False,,,,Virkur,Ekki skráð
+1607815,"Miðborg, gatnakerfi",425,425,Ónóg skráning,Heimtaugarskápur,,-21919638,64144076,,357919.957,407862.494,,,,,,,False,,,,Virkur,Ekki skráð
+1607816,"Miðborg, gatnakerfi",431,431,Ónóg skráning,Heimtaugarskápur,,-21921606,64140033,,357803.444,407416.71,,,,,,,False,,,,Virkur,Ekki skráð
+1607832,"Miðborg, gatnakerfi",619,619,Ónóg skráning,Heimtaugarskápur,,-21931743,64146539,,357344.075,408164.053,,,,,,,False,,,,Virkur,Ekki skráð
+1607833,"Miðborg, gatnakerfi",620,620,Ónóg skráning,Heimtaugarskápur,,-21916485,6414455,,358075.747,407908.173,,,,,,,False,,,,Virkur,Ekki skráð
+1607759,"Miðborg, gatnakerfi",63,63,Ónóg skráning,Heimtaugarskápur,,-21926298,64142897,,357590.0226,407746.2114,,,,,,,False,,,,Virkur,Ekki skráð
+1607837,"Miðborg, gatnakerfi",655,655,Ónóg skráning,Heimtaugarskápur,,-21923232,64138762,,357717.815,407278.823,,,,,,,False,,,,Virkur,Ekki skráð
+1607843,"Miðborg, gatnakerfi",682,682,Ónóg skráning,Heimtaugarskápur,,-21927886,64139206,,357493.747,407338.654,,,,,,,False,,,,Virkur,Ekki skráð
+1607844,"Miðborg, gatnakerfi",686,686,Ónóg skráning,Heimtaugarskápur,,-2192872,64148899,,357503.2159,408420.0325,,,,,,,False,,,,Virkur,Ekki skráð
+1607850,"Miðborg, gatnakerfi",716,716,Ónóg skráning,Heimtaugarskápur,,-21942488,64148018,,356829.24,408353.029,,,,,,,False,,,,Virkur,Ekki skráð
+1607761,"Miðborg, gatnakerfi",74,74,Ónóg skráning,Heimtaugarskápur,,-21943073,64146016,,356790.403,408131.405,,,,,,,False,,,,Virkur,Ekki skráð
+1607860,"Miðborg, gatnakerfi",827,827,Ónóg skráning,Heimtaugarskápur,,-21945027,64136539,,356646.2144,407080.4727,,,,,,,False,,,,Virkur,Ekki skráð
+1607866,"Miðborg, gatnakerfi",847,847,Ónóg skráning,Heimtaugarskápur,,-21945204,64135312,,356631.2529,406944.2334,,,,,,,False,,,,Virkur,Ekki skráð
+1608039,"Miðborg, gatnakerfi",9000,9000,Ónóg skráning,Heimtaugarskápur,,-21925799,64139524,,357596.893,407369.406,,,,,,,False,,,,Virkur,Ekki skráð
+1607881,"Miðborg, gatnakerfi",920,920,Ónóg skráning,Heimtaugarskápur,,-2192671,64139374,,357551.812,407354.798,,,,,,,False,,,,Virkur,Ekki skráð
+1607765,"Miðborg, gatnakerfi",94,94,Ónóg skráning,Heimtaugarskápur,,-21930911,64142527,,357363.761,407715.317,,,,,,,False,,,,Virkur,Ekki skráð
+1606518,"Vesturbær, gatnakerfi",0002_01,2,Hagatorg 1,Heimtaugarskápur,,-21962459,64147562,,355855.854,408347.605,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606530,"Vesturbær, gatnakerfi",0015_01,15,Bræðraborgarstígur 36,Heimtaugarskápur,,-21954995,64148689,,356224.637,408456.135,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606531,"Vesturbær, gatnakerfi",0020_01,20,Fitjar,Heimtaugarskápur,,-22058182,64325925,,352163.3989,428430.3478,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606540,"Vesturbær, gatnakerfi",0027_01,27,Dunhagi 17,Heimtaugarskápur,,-2195748,64138697,,356051.731,407349.077,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606550,"Vesturbær, gatnakerfi",0033_01,33,,Heimtaugarskápur,,-2194409,64150796,,356765.764,408666.024,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,22.04.2024,6.089.319.248,,Virkur,Ekki skráð
+1606549,"Vesturbær, gatnakerfi",0037_01,37,,Heimtaugarskápur,,-21949217,64148789,,356506.09,408454.097,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,14.12.2022,,10733197,Virkur,Ekki skráð
+1606551,"Vesturbær, gatnakerfi",0039_01,39,,Heimtaugarskápur,,-21971034,64145169,,355426.4198,408100.7384,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,06.02.2023,,,Virkur,Ekki skráð
+1606552,"Vesturbær, gatnakerfi",0040_01,40,,Heimtaugarskápur,,-21945635,64146131,,356666.464,408149.964,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,13.12.2022,,10733192,Virkur,Ekki skráð
+1606553,"Vesturbær, gatnakerfi",0041_01,41,,Heimtaugarskápur,,-21950734,64145225,,356413.819,408060.642,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,04.08.2023,6.086.839.221,,Virkur,Ekki skráð
+1606556,"Vesturbær, gatnakerfi",0050_01,50,,Heimtaugarskápur,,-21945483,64149712,,356692.436,408548.425,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,28.12.2022,7800228,10733257,Virkur,Ekki skráð
+1606560,"Vesturbær, gatnakerfi",0057_01,57,,Heimtaugarskápur,,-21962056,64149984,,355888.095,408616.476,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,03.08.2023,6.086.839.244,,Virkur,Ekki skráð
+1606561,"Vesturbær, gatnakerfi",0059_01,59,,Heimtaugarskápur,,-2195004,64151855,,356482.0343,408797.4658,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,25.07.2023,6.086.839.263,,Virkur,Ekki skráð
+1606563,"Vesturbær, gatnakerfi",0062_01,62,,Heimtaugarskápur,,-21953403,64150717,,356312.602,408678.405,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,18.08.2023,,,Virkur,Ekki skráð
+1606581,"Vesturbær, gatnakerfi",0108_01,108,,Heimtaugarskápur,,-21955119,64143761,,356192.947,407907.612,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,09.01.2023,,,Virkur,Ekki skráð
+1606582,"Vesturbær, gatnakerfi",0109_01,109,,Heimtaugarskápur,,-21974467,64148855,,355278.8,408519.1,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,13.09.2022,,10732520,Virkur,Ekki skráð
+1606583,"Vesturbær, gatnakerfi",0110_01,110,,Heimtaugarskápur,,-21953292,64147166,,356299.532,408282.702,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,06.12.2022,,10733104,Virkur,Ekki skráð
+1606588,"Vesturbær, gatnakerfi",0117_01,117,Tjarnarból 17,Heimtaugarskápur,,-21983842,64147711,,354816.997,408413.114,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606590,"Vesturbær, gatnakerfi",0122_01,122,,Heimtaugarskápur,,-21944498,64148495,,356733.999,408410.66,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,13.12.2022,,10733191,Virkur,Ekki skráð
+1606595,"Vesturbær, gatnakerfi",0130_01,130,Grandagarður,Heimtaugarskápur,,-21949568,64153401,,356513.014,408968.534,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606611,"Vesturbær, gatnakerfi",0166_01,166,Litla Kaffistofan Svínahrauni,Heimtaugarskápur,,-21500795,6405819,,377912.152,397421.227,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606612,"Vesturbær, gatnakerfi",0167_01,167,Hella,Heimtaugarskápur,,-21711565,64092195,,367791.074,401632.968,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606614,"Vesturbær, gatnakerfi",0170_01,170,,Heimtaugarskápur,,-21975363,64146137,,355220.9993,408218.4725,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,24.11.2022,,10733029,Virkur,Ekki skráð
+1606615,"Vesturbær, gatnakerfi",0173_01,173,,Heimtaugarskápur,,-2195239,64142386,,356318.476,407748.286,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,01.08.2023,6.086.839.269,,Virkur,Ekki skráð
+1606616,"Vesturbær, gatnakerfi",0175_01,175,,Heimtaugarskápur,,-21964121,64142528,,355748.7536,407790.8533,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,09.01.2023,,,Virkur,Ekki skráð
+1606617,"Vesturbær, gatnakerfi",0177_01,177,,Heimtaugarskápur,,-21956862,64151148,,356146.7103,408734.2291,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,24.11.2022,,10733022,Virkur,Ekki skráð
+1606618,"Vesturbær, gatnakerfi",0182_01,182,,Heimtaugarskápur,,-21967674,64149238,,355611.0915,408546.2028,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,17.08.2023,6.086.837.123,,Virkur,Ekki skráð
+1606626,"Vesturbær, gatnakerfi",0210_01,210,,Heimtaugarskápur,,-21954478,64129209,,356148.3159,406285.6306,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,24.12.2022,,10733023,Virkur,Ekki skráð
+1606630,"Vesturbær, gatnakerfi",0237_01,237,Grandabakki,Heimtaugarskápur,,-21944937,64154239,,356742.461,409051.334,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606672,"Vesturbær, gatnakerfi",0379_01,379,Eyjaslóð 1,Heimtaugarskápur,,-21939779,64156927,,357007.167,409339.031,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606673,"Vesturbær, gatnakerfi",0382_01,382,Fornhagi 9,Heimtaugarskápur,,-21958659,64140683,,356004.7484,407572.9078,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606678,"Vesturbær, gatnakerfi",0401_01,401,Grandabryggja,Heimtaugarskápur,,-21941649,64154846,,356905.483,409111.539,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606689,"Vesturbær, gatnakerfi",0423_01,423,,Heimtaugarskápur,,-21962993,64145761,,355820.495,408148.263,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,,,,Virkur,Ekki skráð
+1606703,"Vesturbær, gatnakerfi",0443_01,443,Meistaravellir 10,Heimtaugarskápur,,-2196286,64147642,,355836.775,408357.445,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606724,"Vesturbær, gatnakerfi",0490_01,490,Hólmaslóð 12,Heimtaugarskápur,,-21940502,64159861,,356987.211,409667.352,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606750,"Vesturbær, gatnakerfi",0542_01,542,Norðurgarður,Heimtaugarskápur,,-21936458,64155531,,357161.313,409176.033,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606756,"Vesturbær, gatnakerfi",0581_01,581,Öldugrandi 1,Heimtaugarskápur,,-21982883,64150372,,354877.6,408707.283,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606757,"Vesturbær, gatnakerfi",0582_01,582,Ægisgarður,Heimtaugarskápur,,-21941259,64152404,,356911.768,408838.643,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606761,"Vesturbær, gatnakerfi",0591_01,591,,Heimtaugarskápur,,-21960567,64136948,,355892.477,407161.372,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,06.12.2022,,10733103,Virkur,Ekki skráð
+1606783,"Vesturbær, gatnakerfi",0651_01,651,Hjarðarhagi 2,Heimtaugarskápur,,-21953982,64139153,,356224.221,407391.839,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606790,"Vesturbær, gatnakerfi",0680_01,680,Eggertsgata,Heimtaugarskápur,,-21953708,64136068,,356221.4983,407047.6946,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606793,"Vesturbær, gatnakerfi",0693_01,693,Fiskislóð 53,Heimtaugarskápur,,-21944407,64156307,,356778.995,409280.46,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1606802,"Vesturbær, gatnakerfi",0727_01,727,Skerplugata 1A,Heimtaugarskápur,,-21950037,64134376,,356391.28,406850.923,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,False,,,,Virkur,Ekki skráð
+1607890,"Vesturbær, gatnakerfi",1121,1121,Ónóg skráning,Heimtaugarskápur,,-21953667,64155196,,356323.082,409177.694,,,,,,,False,,,,Virkur,Ekki skráð
+1607894,"Vesturbær, gatnakerfi",1147,1147,Ónóg skráning,Heimtaugarskápur,,-21941443,64156445,,356923.777,409289.143,,,,,,,False,,,,Virkur,Ekki skráð
+1607913,"Vesturbær, gatnakerfi",1226,1226,Ónóg skráning,Heimtaugarskápur,,-21949617,64156608,,356527.311,409325.778,,,,,,,False,,,,Virkur,Ekki skráð
+1607914,"Vesturbær, gatnakerfi",1227,1227,Ónóg skráning,Heimtaugarskápur,,-21946652,64157647,,356676.829,409434.727,,,,,,,False,,,,Virkur,Ekki skráð
+1607932,"Vesturbær, gatnakerfi",1270,1270,Ónóg skráning,Heimtaugarskápur,,-21935381,64154845,,357210.1472,409097.2445,,,,,,,False,,,,Virkur,Ekki skráð
+1608008,"Vesturbær, gatnakerfi",1413,1413,Ónóg skráning,Heimtaugarskápur,,-21935792,64155288,,357192.4549,409147.4536,,,,,,,False,,,,Virkur,Ekki skráð
+1608026,"Vesturbær, gatnakerfi",1478,1478,Ónóg skráning,Heimtaugarskápur,,-21952067,6415241,,356386.3657,408863.8739,,,,,,,False,,,,Virkur,Ekki skráð
+1608036,"Vesturbær, gatnakerfi",1527,1527,Ónóg skráning,Heimtaugarskápur,,-21956893,6415118,,356145.3553,408737.8464,,,,,,,False,,,,Virkur,Ekki skráð
+1607774,"Vesturbær, gatnakerfi",164,164,Ónóg skráning,Heimtaugarskápur,,-21950507,64150175,,356450.588,408611.399,,,,,,,False,,,,Virkur,Ekki skráð
+1607775,"Vesturbær, gatnakerfi",165,165,Ónóg skráning,Heimtaugarskápur,,-21939531,64156016,,357014.4632,409237.0019,,,,,,,False,,,,Virkur,Ekki skráð
+1607778,"Vesturbær, gatnakerfi",208,208,Ónóg skráning,Heimtaugarskápur,,-21960058,6414421,,355955.107,407968.89,,,,,,,False,,,,Virkur,Ekki skráð
+1607781,"Vesturbær, gatnakerfi",262,262,Ónóg skráning,Heimtaugarskápur,,-21955041,64153129,,356245.558,408950.721,,,,,,,False,,,,Virkur,Ekki skráð
+1607782,"Vesturbær, gatnakerfi",265,265,Ónóg skráning,Heimtaugarskápur,,-21946994,64151363,,356627.548,408735.786,,,,,,,False,,,,Virkur,Ekki skráð
+1607784,"Vesturbær, gatnakerfi",275,275,Ónóg skráning,Heimtaugarskápur,,-21962575,64139253,,355806.819,407422.593,,,,,,,False,,,,Virkur,Ekki skráð
+1607799,"Vesturbær, gatnakerfi",339,339,Ónóg skráning,Heimtaugarskápur,,-219484,64155123,,356578.753,409157.653,,,,,,,False,,,,Virkur,Ekki skráð
+1607805,"Vesturbær, gatnakerfi",381,381,Ónóg skráning,Heimtaugarskápur,,-21967166,6414505,,355613.8731,408078.6763,,,,,,,False,,,,Virkur,Ekki skráð
+1607758,"Vesturbær, gatnakerfi",60,60,Ónóg skráning,Heimtaugarskápur,,-21957036,6414674,,356115.243,408243.776,,,,,,,False,,,,Virkur,Ekki skráð
+1607842,"Vesturbær, gatnakerfi",681,681,Ónóg skráning,Heimtaugarskápur,,-21972439,64142054,,355341.7586,407757.0412,,,,,,,False,,,,Virkur,Ekki skráð
+Samtals,,,,,,,,,,,,,,,,,,,,,,,
