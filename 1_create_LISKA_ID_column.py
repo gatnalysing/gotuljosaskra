@@ -12,11 +12,11 @@ def add_id_column_as_first(table_name):
         # Get current columns
         cursor.execute(f"PRAGMA table_info({table_name})")
         columns = cursor.fetchall()
-        column_names = [column[1] for column in columns]
+        column_names = [f'"{column[1]}"' for column in columns]  # Properly quote column names
         
         # If 'ID' is not already a column, we will recreate the table with it as the first column
-        if 'ID' not in column_names:
-            new_columns = ['ID TEXT'] + [f'"{col}"' for col in column_names if col != 'ID']  # Add ID and preserve other columns
+        if '"ID"' not in column_names:
+            new_columns = ['ID TEXT'] + column_names  # Add ID and preserve other columns
             new_columns_str = ', '.join(new_columns)
             
             # Rename the current table
@@ -27,7 +27,7 @@ def add_id_column_as_first(table_name):
 
             # Insert data from the old table to the new one, using NULL for the new ID column
             old_columns_str = ', '.join(column_names)
-            cursor.execute(f'INSERT INTO {table_name} ({old_columns_str}) SELECT * FROM {table_name}_backup')
+            cursor.execute(f'INSERT INTO {table_name} ({old_columns_str}) SELECT {old_columns_str} FROM {table_name}_backup')
 
             # Drop the backup table
             cursor.execute(f'DROP TABLE {table_name}_backup')
