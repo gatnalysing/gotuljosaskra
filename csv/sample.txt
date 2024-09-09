@@ -1,0 +1,35 @@
+ON_ljosbunadur_2023.csv
+DNR,GLJ_ID,LJT_ID,GATA_HEITI,SVF_HEITI,GLJ_DAGS,STOLPA_TEG,STOLPA_SKM,HAED_LAMPA,LJB_ID,KVEIKING_DAGS,LJOSB_SKIPTI_DAGS,LJOSBUNADUR,LJOSGJAFI,SKYRING,FRAMLEIDANDI,AFL_LJOSGJAFA,TOP_LJOSGJAFA,FJ_LJOSGJAFA,FASTANR,LJT_KT_MAELISTADAR,VEITUTEGUND,FJ_EIGENDA,EIGANDI,STADUR,KT_NOTANDA,NAFN_NOTANDA,TAXTI,X,Y
+2,15,15,HAGATORG,Reykjavík,12/1/86 0:00,J,J5,,9,11/1/89 0:00,12/31/99 0:00,Jernkost7393-K125W,K,Jernkost 7393 125W K,Jernkonst AB,125,10,1,44383,10600978,E,1,Háskólabíó                      ,Hagatorg 3                      ,6001692039   ,Háskóli Íslands                 ,B2    ,356248.1,407521
+2,15,16,HAGATORG,Reykjavík,12/1/86 0:00,J,J5,,10,11/1/91 0:00,,HAL1G1500,G,HAL1G1500,-,1500,0,1,44376,10600971,E,1,Háskólabíó                      ,Hagatorg 3                      ,6001691309   ,Háskólabíó                      ,B2    ,356248.1,407521
+
+MainManager_ljosastaurar.csv
+ID,Heimtaugarskápur XID,Ljósastaur XID,X,Y,Gata,Staðsetning,Dags. uppsett,Eigandi 2,Kennitala eiganda,Eigandi Umsjón-starfsmaður,Framleiðandi,Birgir,Tegund viðfangs,Efni staurs,Litur staurs,Hæð staurs [m],Hefur topp/arm,Tegund topps/arms,Framleiðandi topps/arms,Söluaðili topps/arms,Tengill,Ljósleiðarapípa,Dags. burðarþolsprófunar,Niðurstaða burðarþolsprófunar,Framkvæmdaraðili burðarþolsprófunar,Tegund undirstöðu
+1608214,4,100,356828.2,408233.7,Vonarstræti,Miðbær Götulýsing,01.12.2005,Gatnamálastofa-rekstur/viðhald,5704800149,Reykjavíkurborg - eignasjóður,,,J,Stál,,4.0,False,,,,False,False,,,,
+1609360,26,1000,357434,407376.7,Barónsstígur,Vesturbær Götulýsing,01.12.1969,Reykjavíkurborg - eignasjóður,5704800149,Reykjavíkurborg - eignasjóður,,,J,Stál,,10.0,True,AJ200,,,False,False,,1,Roch Services,
+
+LISKA_Ljosastaurar_1106-2024.csv
+Lóð,Heimtaugarskápur,Heimtaugarskápur XID,Auðkenni ljósastaurs,Ljósastaur XID,Gata,Staðsetning,Tegund viðfangs,Undirtegund,X (lengdargráða),Y (Breidd),GPS-hæð,X,Y,Dags. uppsett,Eigandi 2,Eigandi Umsjón-starfsmaður,Kennitala eiganda,Framleiðandi,Birgir,Efni staurs,Litur staurs,Hæð staurs [m],Hefur topp/arm,Tegund topps/arms,Framleiðandi topps/arms,Söluaðili topps/arms,Tengill,Ljósleiðarapípa,Dags. burðarþolsprófunar,Framkvæmdaraðili burðarþolsprófunar,Tegund undirstöðu,Staða,Ástandseinkunn
+,,,,15,HAGATORG,,,,,,,356248.1,407521,,,,,,,J,,5,,,,,,,,,,,
+,,,,16,VÍKURVEGUR,,,,,,,364971.9,407285.9,,,,,,,VEFMYNDAVÉL,,,,,,,,,,,,,
+
+MainManager_heimtaugaskapar.csv
+ID,Lóð,Auðkenni heimtaugarskáps,Heimtaugarskápur XID,Staðsetning,Tegund viðfangs,Undirtegund,X (lengdargráða),Y (Breidd),GPS-hæð,X,Y,Eigandi Umsjón-starfsmaður,Kennitala eiganda,Þjónustuaðili,Dreifiveita,Söluaðili orku,Gjaldskrá orkusala,Hefur mæli,Dagsetning uppsetningar mælis,Mælanúmer,Veitunúmer,Staða,Ástandseinkunn
+1606537,Árbær, gatnakerfi,0023_01,23,,Heimtaugarskápur,,-21835353,64119513,,361896.035,404940.141,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,27.07.2023,6.086.839.277,,Virkur,Ekki skráð
+1606557,Árbær, gatnakerfi,0051_01,51,,Heimtaugarskápur,,-2180374,64122389,,363449.0288,405191.8239,Reykjavíkurborg - eignasjóður,5704800149,Ljóstvistar,Veitur,N1,,True,27.07.2023,6.086.839.276,,Virkur,Ekki skráð
+
+LISKA_Ljosbunadur_1106-2024.csv
+Lóð,Viðfang,Ljósastaur XID,Ljósabúnaður XID,Auðkenni ljósabúnaðar (OBJECTID),Tegund ljósabúnaðar,Heiti tegundar ljósabúnaðar,Framleiðandi ljósabúnaðar,Ljósgjafi,Skráð afl [W],Notað ljósstreymi [LM],Litarhitastig [K],Ljósdreifing,Birgir,Ábyrgðartímabil [Ár],Stjórneining,Annað,Lýsing,Dags. kveiking,Dags. uppsett,Eigandi Umsjón-starfsmaður,Kennitala eiganda,Veitutegund,Uppsett afl [W],Uppsett ljósstreymi [ln],Straumfesta,Miðnæturdimming,Tengill (Zhaga),Halli ljósabúnaðar,Litur ljósabúnaðar,Þyngd [kg],Vindflötur [m²],Ljóshlíf,Lampa verkefni,Staða
+,Hagatorg Bílastæði Lýsing       ,15,16,10,HAL1G1500,HAL1G1500,-,G,1500,#N/A,,,,,,,HAL1G1500,1111991,,,,E,1500,,,,,,,,,,,
+,Hagatorg Bílastæði Lýsing       ,15,15,9,Jernkost7393-K125W,Jernkost7393-K125W,Jernkonst AB,K,125,,4200,,,,,,Jernkost 7393 125W K,1111989,1011900,,,E,125,,,,,,,,,,,
+
+LISKA_heimtaugaskapar-allir-2024-05-27.csv
+WKT,FDNR,Nafn,Lon,Lat,Allir
+POINT (-21.952843 64.141045),2,Hagatorg 1,-21.952843,64.141045,x
+POINT (-21.94283261 64.14711377),4,Suðurgata 1,-21.94283261,64.14711377,x
+
+MainManager_ljosbunadur.csv
+ID,Lóð,Viðfang,Ljósastaur XID,Ljósabúnaður XID,Auðkenni ljósabúnaðar (OBJECTID),Tegund ljósabúnaðar,Heiti tegundar ljósabúnaðar,Framleiðandi ljósabúnaðar,Ljósgjafi,Skráð afl [W],Notað ljósstreymi [LM],Litarhitastig [K],Ljósdreifing,Birgir,Ábyrgðartímabil [Ár],Stjórneining,Annað,Lýsing,Dags. kveiking,Dags. uppsett,Eigandi Umsjón-starfsmaður,Kennitala eiganda,Veitutegund,Uppsett afl [W],Uppsett ljósstreymi [ln],Straumfesta,Miðnæturdimming,Tengill (Zhaga),Halli ljósabúnaðar,Litur ljósabúnaðar,Þyngd [kg],Vindflötur [m²],Ljóshlíf,Lampa verkefni,Staða
+22868,Árbær, gatnakerfi,11943 Sæbraut Þjóðv.lýsing,11943,12740,,13,Philips-NA150W,Philips,NA,150,,,,,,,,,,,Vegagerðin,6802692899,Þ,170,,,False,,,,,,False,,Virkur
+22869,Árbær, gatnakerfi,11943 Sæbraut Þjóðv.lýsing,11943,12741,,13,Philips-NA150W,Philips,NA,150,,,,,,,,,01.12.1985,11.05.2015,Vegagerðin,6802692899,Þ,170,,,False,,,,,,False,,Virkur
+
