@@ -22,7 +22,7 @@ th, td {
 </head>
 <body>
 {% if table_name %}
-<h2>{{ table_name | capitalize }} Data</h2>
+<h2>{{ table_name | capitalize }} Data (First 1000 rows)</h2>
 <table>
   <tr>
     {% for column in columns %}
@@ -66,9 +66,9 @@ def show_table(table_name):
         conn.close()
         return render_template_string(HTML_TEMPLATE, tables=tables)
     else:
-        # Display specific table data
+        # Display the first 1000 rows from the table
         try:
-            cur.execute(f'SELECT * FROM {table_name}')
+            cur.execute(f'SELECT * FROM {table_name} LIMIT 1000')
         except sqlite3.OperationalError:
             conn.close()
             abort(404)  # Table not found, return 404
