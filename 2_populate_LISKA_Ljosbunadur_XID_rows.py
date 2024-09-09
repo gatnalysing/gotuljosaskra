@@ -44,7 +44,7 @@ def populate_liska_from_mainmanager():
                     updated_row[i] = mainmanager_row[i]
 
             # Update the row in the LISKA_Ljosbunadur_1106_2024 table
-            set_clause = ', '.join([f"{column_name} = ?" for column_name in liska_columns])
+            set_clause = ', '.join([f"[{column_name}] = ?" for column_name in liska_columns])
             cursor.execute(f"""
                 UPDATE LISKA_Ljosbunadur_1106_2024 
                 SET {set_clause}
