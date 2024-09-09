@@ -55,7 +55,7 @@ def get_db_connection():
     return conn
 
 @app.route('/', defaults={'table_name': None})
-@app.route('<table_name>')
+@app.route('/<table_name>')
 def show_table(table_name):
     conn = get_db_connection()
     cur = conn.cursor()
