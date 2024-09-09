@@ -17,11 +17,6 @@ def populate_liska_from_mainmanager():
     liska_columns = get_column_names('LISKA_Ljosbunadur_1106_2024')
     mainmanager_columns = get_column_names('MainManager_ljosbunadur')
 
-    # Ensure both tables have the same number of columns
-    if len(liska_columns) != len(mainmanager_columns):
-        print("Error: The number of columns between the two tables does not match.")
-        return
-
     # Fetch all rows from LISKA_Ljosbunadur_1106_2024
     cursor.execute("SELECT * FROM LISKA_Ljosbunadur_1106_2024")
     liska_rows = cursor.fetchall()
@@ -29,7 +24,7 @@ def populate_liska_from_mainmanager():
     # Iterate through each row of LISKA_Ljosbunadur_1106_2024
     for liska_row in liska_rows:
         # Get the Ljósabúnaður_XID to match with MainManager_ljosbunadur
-        ljosabunadur_xid = liska_row[3]  # Column 4 is Ljósabúnaður_XID (index starts at 0)
+        ljosabunadur_xid = liska_row[4]  # Column 4 is Ljósabúnaður_XID (index starts at 0)
         
         # Find the corresponding row in MainManager_ljosbunadur based on Ljósabúnaður_XID
         cursor.execute(f"SELECT * FROM MainManager_ljosbunadur WHERE Ljósabúnaður_XID = ?", (ljosabunadur_xid,))
