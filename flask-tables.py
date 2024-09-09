@@ -41,7 +41,7 @@ th, td {
 <h2>Available Tables</h2>
 <ul>
   {% for table in tables %}
-  <li><a href="/table/{{ table }}">{{ table }}</a></li>
+  <li><a href="/{{ table }}">{{ table }}</a></li>
   {% endfor %}
 </ul>
 {% endif %}
