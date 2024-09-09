@@ -19,6 +19,11 @@ def purge_tables():
         cursor.execute(f'DROP TABLE IF EXISTS "{table[0]}"')  # Quoting table names
     conn.commit()
 
+# Function to clean up column names (remove brackets)
+def clean_column_names(df):
+    df.columns = [col.replace('[', '').replace(']', '').replace(' ', '_') for col in df.columns]
+    return df
+
 # Function to import CSV files
 def import_csv_files():
     csv_files = [f for f in os.listdir(csv_dir) if f.endswith('.csv')]
@@ -26,6 +31,7 @@ def import_csv_files():
         csv_file_path = os.path.join(csv_dir, csv_file)
         table_name = os.path.splitext(csv_file)[0].replace('-', '_')
         df = pd.read_csv(csv_file_path, dtype=str)  # Import all columns as text
+        df = clean_column_names(df)  # Clean column names
         df.to_sql(table_name, conn, if_exists='replace', index=False)
         print(f"Imported {csv_file} into table {table_name}")
 
