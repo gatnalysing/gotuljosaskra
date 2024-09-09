@@ -1,6 +1,9 @@
 import sqlite3
+import time
 
 db_file = 'gotuljosaskra.db'
+log_file = 'populate_log.txt'
+unmatched_file = 'unmatched_xid.txt'
 
 # Connect to the SQLite database
 conn = sqlite3.connect(db_file)
@@ -17,38 +20,71 @@ def populate_liska_from_mainmanager():
     liska_columns = get_column_names('LISKA_Ljosbunadur_1106_2024')
     mainmanager_columns = get_column_names('MainManager_ljosbunadur')
 
-    # Fetch all rows from LISKA_Ljosbunadur_1106_2024
-    cursor.execute("SELECT * FROM LISKA_Ljosbunadur_1106_2024")
-    liska_rows = cursor.fetchall()
+    # Ensure both tables have the same number of columns
+    if len(liska_columns) != len(mainmanager_columns):
+        print("Error: The number of columns between the two tables does not match.")
+        return
 
-    # Iterate through each row of LISKA_Ljosbunadur_1106_2024
-    for liska_row in liska_rows:
-        # Get the Ljósabúnaður_XID to match with MainManager_ljosbunadur
-        ljosabunadur_xid = liska_row[4]  # Column 4 is Ljósabúnaður_XID (index starts at 0)
-        
-        # Find the corresponding row in MainManager_ljosbunadur based on Ljósabúnaður_XID
-        cursor.execute(f"SELECT * FROM MainManager_ljosbunadur WHERE Ljósabúnaður_XID = ?", (ljosabunadur_xid,))
-        mainmanager_row = cursor.fetchone()
+    # Open the log and unmatched files
+    with open(log_file, 'w') as log, open(unmatched_file, 'w') as unmatched_log:
+        # Fetch all rows from LISKA_Ljosbunadur_1106_2024
+        cursor.execute("SELECT * FROM LISKA_Ljosbunadur_1106_2024")
+        liska_rows = cursor.fetchall()
 
-        if mainmanager_row:
-            # Create the updated row by filling in missing data
-            updated_row = list(liska_row)
-            for i, column_name in enumerate(liska_columns):
-                # If the value in LISKA_Ljosbunadur is empty, take the value from MainManager
-                if not updated_row[i] and mainmanager_row[i]:
-                    updated_row[i] = mainmanager_row[i]
+        total_rows = len(liska_rows)
+        matching_rows = 0
+        no_matches = 0
 
-            # Update the row in the LISKA_Ljosbunadur_1106_2024 table
-            set_clause = ', '.join([f"[{column_name}] = ?" for column_name in liska_columns])
-            cursor.execute(f"""
-                UPDATE LISKA_Ljosbunadur_1106_2024 
-                SET {set_clause}
-                WHERE Ljósabúnaður_XID = ?
-            """, updated_row + [ljosabunadur_xid])
+        # Iterate through each row of LISKA_Ljosbunadur_1106_2024
+        for idx, liska_row in enumerate(liska_rows):
+            # Get the Ljósabúnaður_XID to match with MainManager_ljosbunadur
+            ljosabunadur_xid = liska_row[4]  # Column 4 is Ljósabúnaður_XID (index starts at 0)
 
-    # Commit the changes
-    conn.commit()
-    print("Empty cells in LISKA_Ljosbunadur_1106_2024 have been filled.")
+            # Find the corresponding row in MainManager_ljosbunadur based on Ljósabúnaður_XID
+            cursor.execute(f"SELECT * FROM MainManager_ljosbunadur WHERE Ljósabúnaður_XID = ?", (ljosabunadur_xid,))
+            mainmanager_row = cursor.fetchone()
+
+            if mainmanager_row:
+                # Create the updated row by filling in missing data
+                updated_row = list(liska_row)
+                for i, column_name in enumerate(liska_columns):
+                    # If the value in LISKA_Ljosbunadur is empty, take the value from MainManager
+                    if not updated_row[i] and mainmanager_row[i]:
+                        updated_row[i] = mainmanager_row[i]
+
+                # Update the row in the LISKA_Ljosbunadur_1106_2024 table
+                set_clause = ', '.join([f"[{column_name}] = ?" for column_name in liska_columns])
+                cursor.execute(f"""
+                    UPDATE LISKA_Ljosbunadur_1106_2024 
+                    SET {set_clause}
+                    WHERE Ljósabúnaður_XID = ?
+                """, updated_row + [ljosabunadur_xid])
+
+                matching_rows += 1
+                log.write(f"Updated row with Ljósabúnaður_XID: {ljosabunadur_xid}\n")
+            else:
+                # Log unmatched Ljósabúnaður_XID
+                unmatched_log.write(f"No match for Ljósabúnaður_XID: {ljosabunadur_xid}\n")
+                no_matches += 1
+
+            # Sleep to limit the number of operations per second
+            time.sleep(0.006)  # ~6ms delay (~166 operations/sec)
+
+            # Optional: print progress to CLI every 1000 rows
+            if (idx + 1) % 1000 == 0:
+                print(f"Processed {idx + 1} out of {total_rows} rows...")
+
+        # Commit the changes
+        conn.commit()
+
+        # Final summary
+        log.write(f"\nSummary:\n")
+        log.write(f"Total rows checked: {total_rows}\n")
+        log.write(f"Matching rows: {matching_rows}\n")
+        log.write(f"No matches: {no_matches}\n")
+
+        print("Empty cells in LISKA_Ljosbunadur_1106_2024 have been filled.")
+        print(f"Summary written to {log_file}. Unmatched XIDs written to {unmatched_file}.")
 
 # Run the function to populate the data
 populate_liska_from_mainmanager()
