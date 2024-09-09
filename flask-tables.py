@@ -50,13 +50,12 @@ th, td {
 """
 
 def get_db_connection():
-    conn = sqlite3.connect('lamp_data.db')
+    conn = sqlite3.connect('gotuljosaskra.db')
     conn.row_factory = sqlite3.Row
     return conn
 
-@app.route('/table', defaults={'table_name': None})
-@app.route('/table/', defaults={'table_name': None})
-@app.route('/table/<table_name>')
+@app.route('/', defaults={'table_name': None})
+@app.route('<table_name>')
 def show_table(table_name):
     conn = get_db_connection()
     cur = conn.cursor()
