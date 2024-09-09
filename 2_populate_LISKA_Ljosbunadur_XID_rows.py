@@ -7,18 +7,18 @@ conn = sqlite3.connect(db_file)
 cursor = conn.cursor()
 
 # Get the column names of both tables for reference
-def get_column_count(table_name):
+def get_column_names(table_name):
     cursor.execute(f"PRAGMA table_info({table_name})")
-    return len(cursor.fetchall())
+    return [column[1] for column in cursor.fetchall()]
 
 # Populate empty cells in LISKA_Ljosbunadur_1106_2024 with corresponding data from MainManager_ljosbunadur
 def populate_liska_from_mainmanager():
-    # Get the number of columns in both tables (assuming order matches)
-    liska_column_count = get_column_count('LISKA_Ljosbunadur_1106_2024')
-    mainmanager_column_count = get_column_count('MainManager_ljosbunadur')
+    # Get the column names from both tables
+    liska_columns = get_column_names('LISKA_Ljosbunadur_1106_2024')
+    mainmanager_columns = get_column_names('MainManager_ljosbunadur')
 
     # Ensure both tables have the same number of columns
-    if liska_column_count != mainmanager_column_count:
+    if len(liska_columns) != len(mainmanager_columns):
         print("Error: The number of columns between the two tables does not match.")
         return
 
@@ -38,15 +38,16 @@ def populate_liska_from_mainmanager():
         if mainmanager_row:
             # Create the updated row by filling in missing data
             updated_row = list(liska_row)
-            for i in range(liska_column_count):
+            for i, column_name in enumerate(liska_columns):
                 # If the value in LISKA_Ljosbunadur is empty, take the value from MainManager
-                if not updated_row[i]:
+                if not updated_row[i] and mainmanager_row[i]:
                     updated_row[i] = mainmanager_row[i]
 
             # Update the row in the LISKA_Ljosbunadur_1106_2024 table
+            set_clause = ', '.join([f"{column_name} = ?" for column_name in liska_columns])
             cursor.execute(f"""
                 UPDATE LISKA_Ljosbunadur_1106_2024 
-                SET {', '.join([f'column{i + 1} = ?' for i in range(liska_column_count)])}
+                SET {set_clause}
                 WHERE Ljósabúnaður_XID = ?
             """, updated_row + [ljosabunadur_xid])
 
