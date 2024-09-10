@@ -18,8 +18,8 @@ def destroy_create_table(db_file, table_name, csv_file):
         cursor.execute(f"DROP TABLE IF EXISTS {table_name}")
         print(f"Table '{table_name}' dropped successfully.")
         
-        # Read the CSV file into a DataFrame
-        df = pd.read_csv(csv_file)
+        # Read the CSV file into a DataFrame, treating all columns as TEXT
+        df = pd.read_csv(csv_file, dtype=str)  # Ensuring all columns are read as text
         
         # Create the table from the DataFrame
         df.to_sql(table_name, conn, if_exists='replace', index=False)
