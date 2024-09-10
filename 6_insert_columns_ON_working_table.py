@@ -6,15 +6,15 @@ db_file = 'gotuljosaskra.db'
 conn = sqlite3.connect(db_file)
 cursor = conn.cursor()
 
-# Step 1: Rename columns with spaces to use underscores
+# Step 1: Rename columns with spaces and periods to use single underscores
 def rename_columns_with_underscores(table_name):
     cursor.execute(f"PRAGMA table_info({table_name})")
     columns = cursor.fetchall()
     
     for column in columns:
         old_column_name = column[1]
-        if ' ' in old_column_name:
-            new_column_name = old_column_name.replace(' ', '_')
+        if ' ' in old_column_name or '.' in old_column_name:
+            new_column_name = old_column_name.replace(' ', '_').replace('.', '_').replace('__', '_')  # Ensuring single underscore
             cursor.execute(f'ALTER TABLE {table_name} RENAME COLUMN "{old_column_name}" TO "{new_column_name}"')
             print(f'Renamed column "{old_column_name}" to "{new_column_name}"')
 
@@ -37,7 +37,7 @@ def create_new_table_with_empty_columns():
             GPS_hæð TEXT,
             X TEXT,
             Y TEXT,
-            "Dags._uppsett" TEXT,
+            Dags_uppsett TEXT,
             Eigandi_2 TEXT,
             Eigandi_Umsjón_starfsmaður TEXT,
             Kennitala_eiganda TEXT,
@@ -73,7 +73,7 @@ def populate_new_table():
             Undirtegund, 
             X, 
             Y, 
-            "Dags._uppsett", 
+            Dags_uppsett, 
             Eigandi_2, 
             Eigandi_Umsjón_starfsmaður, 
             Kennitala_eiganda, 
@@ -88,7 +88,7 @@ def populate_new_table():
             Undirtegund, 
             X, 
             Y, 
-            "Dags._uppsett", 
+            Dags_uppsett, 
             Eigandi_2, 
             Eigandi_Umsjón_starfsmaður, 
             Kennitala_eiganda, 
