@@ -2,7 +2,7 @@ import sqlite3
 import time
 
 db_file = 'gotuljosaskra.db'
-log_file = 'populate_log.txt'
+summary_file = 'populate_summary.txt'
 unmatched_file = 'unmatched_xid.txt'
 
 # Connect to the SQLite database
@@ -25,8 +25,8 @@ def populate_liska_from_mainmanager():
         print("Error: The number of columns between the two tables does not match.")
         return
 
-    # Open the log and unmatched files
-    with open(log_file, 'w') as log, open(unmatched_file, 'w') as unmatched_log:
+    # Open the summary and unmatched files
+    with open(summary_file, 'w') as summary, open(unmatched_file, 'w') as unmatched_log:
         # Fetch all rows from LISKA_Ljosbunadur_1106_2024
         cursor.execute("SELECT * FROM LISKA_Ljosbunadur_1106_2024")
         liska_rows = cursor.fetchall()
@@ -61,30 +61,26 @@ def populate_liska_from_mainmanager():
                 """, updated_row + [ljosabunadur_xid])
 
                 matching_rows += 1
-                log.write(f"Updated row with Ljósabúnaður_XID: {ljosabunadur_xid}\n")
             else:
                 # Log unmatched Ljósabúnaður_XID
                 unmatched_log.write(f"No match for Ljósabúnaður_XID: {ljosabunadur_xid}\n")
                 no_matches += 1
 
             # Sleep to limit the number of operations per second
-            time.sleep(0.006)  # ~6ms delay (~166 operations/sec)
+            time.sleep(0.0015)  # ~1.5ms delay (~666 operations/sec)
 
             # Optional: print progress to CLI every 1000 rows
             if (idx + 1) % 1000 == 0:
                 print(f"Processed {idx + 1} out of {total_rows} rows...")
 
-        # Commit the changes
-        conn.commit()
-
         # Final summary
-        log.write(f"\nSummary:\n")
-        log.write(f"Total rows checked: {total_rows}\n")
-        log.write(f"Matching rows: {matching_rows}\n")
-        log.write(f"No matches: {no_matches}\n")
+        summary.write(f"Summary:\n")
+        summary.write(f"Total rows checked: {total_rows}\n")
+        summary.write(f"Matching rows: {matching_rows}\n")
+        summary.write(f"No matches: {no_matches}\n")
 
         print("Empty cells in LISKA_Ljosbunadur_1106_2024 have been filled.")
-        print(f"Summary written to {log_file}. Unmatched XIDs written to {unmatched_file}.")
+        print(f"Summary written to {summary_file}. Unmatched XIDs written to {unmatched_file}.")
 
 # Run the function to populate the data
 populate_liska_from_mainmanager()
